@@ -1,6 +1,8 @@
 ---
 title: Direct Heap Snapshotting in the Java HotSpot VM: a Prototype
+date: 2020-08-26
 ---
+
 In 2020, I did my master thesis at Oracle researching a specific way 
 to speed up JVM startup time. In a nutshell, can we load an already-initialized
 Java Heap image into memory in place of the usual heap initialization process?
