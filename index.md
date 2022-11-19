@@ -1,16 +1,4 @@
 ---
-title: Welcome to my JVM blog
+title: Ludvig Janiuk's blog
 ---
-This is some text before the title
-
-# JVM Sustaining Engineering
-testtest
-
-test
-
-## JVM Sustaining Engineering
-
-terst
-
-test
-
+I joined the JVM Sustaining Engineering team at Oracle in 2021. Here I intend to write up topics connected to HotSpot hacking and debugging that might be useful to others.
