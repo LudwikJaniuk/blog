@@ -3,14 +3,13 @@ title: "Direct Heap Snapshotting in the Java HotSpot VM: a Prototype"
 date: 2020-08-26
 ---
 
-_This is a repost of my blog entry about my master thesis at Oracle. The original was published at 
-https://inside.java/2020/08/26/heap-snapshotting/_
+_This is a repost of my blog entry about my master thesis at Oracle. The original was [published on inside.java](https://inside.java/2020/08/26/heap-snapshotting/)_
 
 Hi! I’m Ludvig, a CS student from Stockholm. I am currently finishing my 5-year education with a focus on Theoretical Computer Science and moving on towards professional work. My background includes volunteer work organizing hackathons and the yearly djulkalendern CTF challenge, an exchange in Barcelona, startup work, R&D with Augmented Reality, and Teaching Assistant positions in various courses at KTH including on algorithms and interaction programming. My goals for the summer include learning Rust and Clojure at a deeper level.
 
 In my master thesis at Oracle, I have investigated “Heap Snapshotting”, which is an approach that could potentially reduce JVM startup time. In broad strokes, given that JVM initialization takes a lot of time, but is assumed to be quite deterministic, can’t we just take a snapshot of the whole heap at the end of initialization, and use it at the next startup to start directly from that initialized state? We might have to do some “fixup procedures” to make sure that the snapshot can actually start, but assuming those don’t take too much time, it should save us startup time.
 
-![heap snapshotting timeline diagram](../images/heap-snapshotting.md)
+![heap snapshotting timeline diagram](/images/heap-snapshotting.md)
 
 So can this be done? Or is the JVM too complex to support such a coarse operation? And how are the time results in practice?
 
