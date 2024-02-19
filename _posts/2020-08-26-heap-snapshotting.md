@@ -1,5 +1,5 @@
 ---
-title: Direct Heap Snapshotting in the Java HotSpot VM: a Prototype
+title: Direct Heap Snapshotting in the Java HotSpot VM\: a Prototype
 date: 2020-08-26
 ---
 
