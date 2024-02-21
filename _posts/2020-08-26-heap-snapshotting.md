@@ -9,7 +9,7 @@ Hi! I’m Ludvig, a CS student from Stockholm. I am currently finishing my 5-yea
 
 In my master thesis at Oracle, I have investigated “Heap Snapshotting”, which is an approach that could potentially reduce JVM startup time. In broad strokes, given that JVM initialization takes a lot of time, but is assumed to be quite deterministic, can’t we just take a snapshot of the whole heap at the end of initialization, and use it at the next startup to start directly from that initialized state? We might have to do some “fixup procedures” to make sure that the snapshot can actually start, but assuming those don’t take too much time, it should save us startup time.
 
-![heap snapshotting timeline diagram](/blog/assets/images/heap-snapshotting.png)
+![heap snapshotting timeline diagram](/assets/images/heap-snapshotting.png)
 
 So can this be done? Or is the JVM too complex to support such a coarse operation? And how are the time results in practice?
 

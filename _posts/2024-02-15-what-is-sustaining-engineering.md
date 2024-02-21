@@ -3,7 +3,7 @@ title: "What is Sustaining Engineering? (draft)"
 date: 2024-02-15
 ---
 
-![Sherlock Holmes Duke representing Sustaining](/blog/assets/images/sherlock-duke.png)
+![Sherlock Holmes Duke representing Sustaining](/assets/images/sherlock-duke.png)
 
 I studied computer science because I thought I wanted to write code for a living, but deep down, maybe I just wanted to know how things work under the hood. This is entitled - I cannot accept that I should not be permitted to look behind the magician's curtain. If not for this I would not have tortured myself learning C++.
 
