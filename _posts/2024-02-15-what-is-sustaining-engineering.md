@@ -27,3 +27,5 @@ Between wearing those two hats, and much more - I haven't had a boring day yet.
 [^5]: [Java 21 By Brian Goetz](https://youtu.be/eXCx2hW_xNI?feature=shared&t=166), Devoxx Belgium 2023
 [^6]: [https://en.wikipedia.org/wiki/Red_Queen%27s_race](https://en.wikipedia.org/wiki/Red_Queen%27s_race) and [https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/](https://www.ascm.org/ascm-insights/the-red-queen-hypothesis/)
 [^7]: [https://www.oracle.com/security-alerts/](https://www.oracle.com/security-alerts/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.janiuk.se&count_bg=%23963DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
