@@ -7,5 +7,5 @@ Wielu zna cytat biblijny ”Kto w drobnej rzeczy jest wierny, ten i w wielkiej b
 
 Powiędzmy sobie jasno: największe źródła emisji w życiu mieszkańca krajów na zachodzie to: loty, mięso, samochód, shopping. Jeśli dbasz o przyszłość, nie skupiaj się zbytnio na szczegółach, tylko zmniejszaj te cztery. 
 
-[^1] https://www.sciencedirect.com/science/article/pii/S0921344915301245
-[^2] https://co2.myclimate.org/en/portfolios?calculation_id=7259107
+[^1]: [https://www.sciencedirect.com/science/article/pii/S0921344915301245]
+[^2]: [https://co2.myclimate.org/en/portfolios?calculation_id=7259107]
