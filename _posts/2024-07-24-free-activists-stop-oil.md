@@ -1,5 +1,5 @@
 ---
-title: "Free Activists! Stop Oil"
+title: "Free Activists! Stop Oil!"
 date: 2024-07-24
 ---
 
