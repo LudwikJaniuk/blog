@@ -1,5 +1,5 @@
 ---
-title: "Mind the prorportions"
+title: "Mind the proportions"
 date: 2024-08-14
 ---
 
