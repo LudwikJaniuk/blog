@@ -1,5 +1,5 @@
 ---
-title: "Kepner Tregoe: A method for making important decisions"
+title: "A method for making important decisions"
 date: 2024-09-14
 ---
 
