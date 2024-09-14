@@ -20,7 +20,7 @@ especially if I'm making it with other people. I also cherry-pick bits of this i
 Note down any options that are already in your head, but know there will be a step for that later. 
 
 **List your Criteria and Objectives.** Criteria are must-haves, such that any decision absolutely must fulfill all of them. 
-Objectives are what are you trying to achieve with the decision. What will you judge the Options against? 
+Objectives are what you are trying to achieve with the decision. What will you judge the Options against? 
 What makes one better than another? Take time for this step, as you might discover ones you were not aware of.
 
 **Prioritize your Objectives.** Ask "Which of these is more important to me?" and "If I can only have one, 
@@ -48,7 +48,7 @@ This will be helpful to come back to as you implement your decision and you - or
 # Tips and tricks
 
 This looks like a linear process but it's not. I find myself jumping back and forth between the steps, 
-because each one possibly triggers new thougths and understanding of the previous ones. I don't fight that. 
+because each one possibly triggers new thoughts and understanding of the previous ones. I don't fight that. 
 I go back, add my additional understanding in the form of a new Objective, a change in priorities, 
 or changing a must-have Critierion to a good-to-have Objective. 
 
@@ -66,6 +66,6 @@ Skip any part you feel is worthless. The value here is in making you think of th
 
 # Summary
 
-This process has improved the quality of decisions I've made many times, and raised the level of discussions. 
+This process has improved the quality of decisions I've made, and raised the level of discussions. 
 I hope it can be useful to others. 
 Please let me know how it works for you!
