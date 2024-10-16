@@ -17,7 +17,7 @@ Demonstationen jag var på hette "No a la Copa America" och som jag förstod den
 
 Demonstrationen började med ett tal, sedan gick några hundra personer ledda av en bil med högtalare genom några stora turistgator vid kusten. Folk sjöng på katalanska, och ropade slagord. De höll skyltar med budskap om omöjliga hyror, om att turism dödar liver i kvarteren, samt att politikerna bara mitiveras av ekonomisk vinst. Klistermärken med t.ex. texten "America's cup is _not_ welcome" klistrades på reklamskyltar. Olika lappar med info delates ut.
 
-![Klistermärke på reklamskylt](/assets/images/copa-stickers.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Klistermärke på reklamskylt](/assets/images/copa-sticker.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 En lapp handlade om "Casa Orsola", en vackert modernistiskt bostadshus i centrala Barcelona. Detta bostadshus har köpts upp av en investeringsfirma och den nya ägaren försöker få ut de gamla hyrsegästera för att kunna göra om bostadshuset till lyxlägenheter, men de gör motstånd. Casa Orsola framställdes som symboliskt för Barcelonas lokalbefolkning generellt.
 
