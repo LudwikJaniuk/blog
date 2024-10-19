@@ -25,7 +25,7 @@ Jag frågade vad de tyckte var det bästa man kunde göra.
 
 "Att donera pengar är väl det bästa. På andra plats kommer nog att kommunicera om det. Att ta upp ämnet i olika samtal, för att hålla konceptet levande. Eller det kanske egentligen kommer på första plats?" 
 
-![Olivträd i en park Madrid, där varje träd står i en pyramid som representerar ett sydamerikanskt land.](/assets/images/madrid-olives.png)
+![Olivträd i en park Madrid, där varje träd står i en pyramid som representerar ett sydamerikanskt land.](/assets/images/madrid-olives.jpg)
 
 Sedan pratade vi mycket om deras engagemang också. Båda jobbar med AI. En av dem ville att fler människor skulle veta om AI och dess möjligheter. Han har en blogg och vill förklara tekniska AI-detaljer på ett tillgängligt sätt så att även hans mormor ska kunna förstå. För då tror han att framtiden blir bättre - om fler får vara med och ge sina perspektiv på AI-utvecklingen så kommer AI att kunna fungera bättre i mänskligheten. Folk kan också lyckas ställa om bättre till en ny verklighet, men det krävs att de pratar om det nya. Min fråga var huruvuda mormor verkligen har ett sätt att påverka AI-utvecklingen - gör det skillad att mormor lär sig, eller måste inte AI-företagen också vilja lyssna på mormor? Företagen vill ju tjäna sina kunder, sa han. Fast då är det bara de betalande kunderna som får vara med och påverka, sa jag, medans alla människor vars liv på något vis påverkas av AI i samhället ju är många fler.
 
