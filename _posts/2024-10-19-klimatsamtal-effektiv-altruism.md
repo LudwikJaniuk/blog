@@ -1,6 +1,6 @@
 ---
 title: "Klimatsamtal - Effektiv Altruism"
-date: 2020-10-19
+date: 2024-10-19
 ---
 
 Rörelsen "Effektiv Altruism" handlar om att göra goda saker, till exempel donera pengar, men att ställa frågan hur de borde doneras för att göra mest nytta.
