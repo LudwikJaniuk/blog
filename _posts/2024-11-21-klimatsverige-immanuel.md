@@ -22,3 +22,4 @@ Sen var det workshops på olika teman, bland annat:
 Svårt val, men jag valde att delta i den sista.
 
 Det blev en jättespännande diskussion. Jag lärde mig on nätverket "grön kyrka" där kyrkor från olika samfund kan vara med i. Vi prata om att påve Franciskus driver på tydligt om klimatkrisen, samt att svenska kyrkan har gjort ett tydligt ställningstagande. Däremot särskilt i USA präglas många församlingar av ren och skär klimatförnekelse. Vi talade om andra religioners synsätt - har inte kristendomen bidragit till att skapa dagens exploaterande samhälle? Med den människocentrerade synen? - andra religioner förespråkar en världsbild centrerad i jorden, inte människan. Vi pratade sorg och helgedom. Vi pratade teologi - som troende, hur grundar man sitt klimatengagemang? Förslagsvis i budet att "älska din nästa". Samt hur svenska kyrkor väldigt konkret kan hjälpa till att få till en klimatomställning.
+
