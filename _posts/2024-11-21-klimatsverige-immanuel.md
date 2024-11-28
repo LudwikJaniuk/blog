@@ -5,7 +5,7 @@ date: 2024-11-21
 
 Vissa dagar är hoppfulla. Det finns ändå månniskor som kämpar benhårt för en bättre framtid, och idag fick jag se många av dem i samma rum. Nätverket [Klimatsverige](https://klimatsverige.se/) ordnade nämligen en kväll med föreläsningar och workshops. Här följer en sammanfattning av mina takeaways.
 
-Mikael Mammaeus, som jobbar på IVL Svenska Miljöinstitutet, är ekonom och föreläste om "Tillväxt eller välfärd i en hållbar ekonomi." Hans forskning har handlat om att studera olika möjliga framtidsvisioner, hur en hållbar omställning kan ske rent konkret. Det finns olika alternativ, och genom att belysa dem kan som samhälle förhoppningsvis välja vad vi vill sträva efter. Han nämnde två strategier för hållbarhet:
+Mikael Mammaeus, som jobbar på IVL Svenska Miljöinstitutet, är ekonom och föreläste om "Tillväxt eller välfärd i en hållbar ekonomi." Hans forskning har handlat om att studera olika möjliga framtidsvisioner, hur en hållbar omställning kan ske rent konkret. Det finns olika alternativ, och genom att belysa dem kan vi som samhälle förhoppningsvis välja vad vi vill sträva efter. Han nämnde två strategier för hållbarhet:
 
  * Effektivisering
  * Tillräcklighet
