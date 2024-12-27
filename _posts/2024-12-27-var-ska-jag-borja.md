@@ -24,12 +24,12 @@ när de utformas faktabaserat och rättvist, har en dubbel effekt. Dels är de s
 påverkar alla över lång tid. Dels har de även en normskapande effekt: vad vi uppfattar som "normalt" i samhället är egentligen
 högst skiftande och beror på samhällsutvecklingen. När något väl gjorts olagligt skiftar ofta samhällets normer och folk 
 kan efter en tid inte tänka sig något annat än det nya normala. Rattfylleri är ett gott exempel, och barnaga ett annat. 
+ 
+![Påverkanspilen](/assets/images/graf-atgard.jpg)
 
 Om man ritade upp en graf över åtgärder som gynnar klimatet, och axlarna hette "storlek på effekt" och "långvarighet" - då 
 skulle systematiska åtgärder ta hem priset[^2]. De spelar faktiskt i en helt annan liga. Och klimatkrisen är så stor och 
-brådskande, att just så pass ambitiösa åtgärder är nödvändiga för att ha en chans att göra skillnad. 
-
-![Påverkanspilen](/assets/images/graf-atgard.jpg)
+brådskande, att just så pass ambitiösa åtgärder är nödvändiga för att ha en chans att göra skillnad.
 
 Men hur kan du bidra till att en ny lag stiftas? Även om du inte är politiker, så kan och bör du vara med och skapa den 
 politiska press som gör att sådana åtgärder blir verklighet. Nyckeln till framgång ligger i rörelser som samarbetar. Det 
@@ -46,5 +46,5 @@ människor reagerar negativt, men samtidigt har jag sett hur ringarna spridit si
 så mycket du känner dig bekväm med - eller för all del långt mer, om du är så lagd! Lycka till, och hör gärna av dig och
 berätta för mig vad du har försökt dig på.
 
-[^1] https://en.wikipedia.org/wiki/Carbon_footprint#Shifting_responsibility_from_corporations_to_individuals  
-[^2] Jag upptäckte denna tankemodell i boken "klimatpsykologi" av Kali Andersson, Frida Hylander och Kata Nylén. Värt att ha i huvudet är alla åtgärderna är bra - men de längst upp till höger är ännu bättre.
+[^1]: https://en.wikipedia.org/wiki/Carbon_footprint#Shifting_responsibility_from_corporations_to_individuals  
+[^2]: Jag upptäckte denna tankemodell i boken "klimatpsykologi" av Kali Andersson, Frida Hylander och Kata Nylén. Värt att ha i huvudet är alla åtgärderna är bra - men de längst upp till höger är ännu bättre.
