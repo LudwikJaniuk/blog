@@ -32,7 +32,7 @@ skulle systematiska åtgärder ta hem priset[^2]. De spelar faktiskt i en helt a
 brådskande, att just så pass ambitiösa åtgärder är nödvändiga för att ha en chans att göra skillnad.
 
 Men hur kan du bidra till att en ny lag stiftas? Även om du inte är politiker, så kan och bör du vara med och skapa den 
-politiska press som gör att sådana åtgärder blir verklighet. Nyckeln till framgång ligger i rörelser som samarbetar. Det 
+politiska press som gör att sådana åtgärder blir verklighet. Hoppet ligger i rörelser som samarbetar. Det 
 finns en uppsjö av civilsamhällerorganisationer som skulle uppskatta din hjälp och ditt stöd. Dessa gör skillnad på riktigt.
 Några exempel som jag vet är aktiva idag: **Naturskyddsföreningen. Fridays for future. Greenpeace. Jordens vänner. Klimataktion.
 Klimatriksdagen. Återställ våtmarker. Auroramålet. End Ecocide Sweden. Rebellmammorna.** Alla har olika strategier - från 
