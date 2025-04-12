@@ -3,7 +3,7 @@ title: "Wzrusz się trochę ze mną"
 date: 2025-04-12
 ---
 
-Rozłam się trochę ze mną
+Wzrusz się trochę ze mną
 
 Gdy temperatury wzrastają, woda gruntowa opada, a susze są coraz dłuższe, wszyscy są dotknięci ale nie w równiej mierze.
 
