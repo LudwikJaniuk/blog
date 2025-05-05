@@ -1,5 +1,5 @@
 ---
-title: "Reseberättelse: Skuleskogen"
+title: "Reseberättelse Skuleskogen"
 date: 2025-05-05
 ---
 
