@@ -60,4 +60,6 @@ erbjuder mig öppet som en guide och hjälp till andra som skulle vilja göra
 mer för att hjälpa till - genom att demonstrera öppet, eller genom lika 
 viktigt men mindre synligt arbete i bakgrunden. 
 
+Om du kan - [donera till Ta tillbaka framtiden](https://tatillbakaframtiden.se/donera/). Samhällsföränding kräver resurser. 
+
 ![Selfie på mig i visby](/assets/images/visby-selfie.jpg)
