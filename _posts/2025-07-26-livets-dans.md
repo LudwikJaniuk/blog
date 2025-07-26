@@ -1,5 +1,5 @@
 ---
-title: "Livets dans mot orgsaniserad okunskap"
+title: "Livets dans mot organiserad okunskap"
 date: 2025-07-26
 ---
 
