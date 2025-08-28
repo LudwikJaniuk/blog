@@ -3,11 +3,11 @@ title: "Bokrapport: The Feminist Killjoy Handbook, och hur Polska Katolska Kyrka
 date: 2025-08-28
 ---
 
+![Bokens omslag](/assets/images/feminist-killjoy.jpg)
+
 Jag vill stanna till och berätta om den här boken trots att jag egentligen har några andra jag vill läsa direkt efter. Den har kristalliserat något i mig som jag länge saknat. 
 
 The Feminist Killjoy Handbook handlar om fenomenet när en person som synliggör ett problem, i sig blir behandlad som problemet. En "killjoy" är någon som sabbar stämningen - påpekar att ett skämt är homofobiskt, eller tar upp att en planerad investering skulle vara oetisk. Beskrivningen används för att förlöjliga den som försöker påpeka problemet, och för att skrämma bort andra från att göra detsamma. 
-
-
 
 Jag har alltid haft svårt att förstå varför människor i grupp beter sig på detta vis, varför skjuter de budbäraren? Författaren Sara Ahmed förklarar att genom att påpeka ett problem uppfattas "killjoyen" ställa sig i vägen för den andres lycka. Aha, lät det i mitt huvud. Okej, det var det som hände. Jag stod i vägen för någons lycka - då spelar ingen logik roll. Jag står i vägen för lyckan - jag ska bort[^1].
 
