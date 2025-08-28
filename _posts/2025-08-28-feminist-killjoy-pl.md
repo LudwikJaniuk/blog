@@ -1,9 +1,9 @@
 ---
-title: "O książce „The Feminist Killjoy Handbook” oraz o tym jak Kościół Katolici w tym roku ucieka od odpowiedzialności za wykorzystywanie seksualne niepełnoletnich."
+title: "O książce „The Feminist Killjoy Handbook” oraz o tym jak Kościół Katolicki w tym roku ucieka od odpowiedzialności za wykorzystywanie seksualne niepełnoletnich."
 date: 2025-08-28
 ---
 
-![Bokens omslag](/assets/images/feminist-killjoy.jpg)
+![Okladka ksiazki](/assets/images/feminist-killjoy.jpg)
 
 
 Chcę napisać o tej książce, mimo że tak naprawdę mam kilka innych, które chcę zaraz przeczytać. Skrystalizowała we mnie coś, za czym od dawna tęskniłem.
@@ -20,7 +20,7 @@ Feministom i feministkom również może być potrzebne zepsucie nastroju. Ahmed
 
 Inny przykład jest tuż pod ręką: Kościół katolicki przez długi czas ukrywał szeroki i głęboki problem wykorzystywania dzieci. Teraz częściowo wyszło to na jaw, ale ile cierpienia można by było uniknąć, gdyby ludzie odważyli się częściej i wcześniej stwarzać dyskomfort? Czasami ludzie oskarżają mnie o „wybór złego momentu” na rozmowę o klimacie, ale kiedy był właściwy moment, aby przerwać milczenie w Kościele? Nie ma takiego momentu, który ludzie uznaliby za „dobry”, ponieważ nie chcą słuchać. Proponuję to jako uzupełnienie listy wskazówek autora: **„Nie ma dobrego momentu na przesłanie, którego ludzie nie chcą słyszeć”**.
 
-Nawiasem mówiąc, Kościół katolicki w Polsce wycofał się ze swoich rzekomych planów powołania komisji do badania przypadków wykorzystywania. [Ta gazeta relacjonuje przebieg wydarzeń](https://wiez.pl/2025/06/14/jak-nie-powstaje-komisja-ds-wykorzystywania-seksualnego-w-kosciele-katolickim-w-polsce-kalendarium-2023-2025/), kluczową decyzją jest [tutaj](https://ochrona.episkopat.pl/dokumenty/komunikat-401-zebrania-plenarnego-kep-fragment/), a [tutaj całość notatek z 401. oficjalnego spotkania Biskupów Polskich](https://www.ekai.pl/dokumenty/komunikat-z-401-zebrania-plenarnego-konferencji-episkopatu-polski/). Pierwotnie komisją miał kierować biskup Wojciech Polak, mający doświadczenie w prowadzeniu dochodzeń w sprawie wykorzystywania seksualnego w Kościele. Biskupi „podziękowali mu za całą pracę przygotowawczą”, ale postanowili usunąć go z komisji i powierzyć jej przewodnictwo biskupowi Sławomirowi Oderowi, który nie ma żadnego doświadczenia w tej dziedzinie. Innymi słowy, podjęli decyzję, która gwarantuje, że komisja nie zrobi nic skutecznego, ale jednocześnie mogą twierdzić, że komisji nie odwołali.
+Nawiasem mówiąc, Kościół katolicki w Polsce wycofał się ze swoich rzekomych planów powołania komisji do badania przypadków wykorzystywania. [Ta gazeta relacjonuje przebieg wydarzeń](https://wiez.pl/2025/06/14/jak-nie-powstaje-komisja-ds-wykorzystywania-seksualnego-w-kosciele-katolickim-w-polsce-kalendarium-2023-2025/), kluczową decyzją jest [tutaj](https://ochrona.episkopat.pl/dokumenty/komunikat-401-zebrania-plenarnego-kep-fragment/), a [tutaj całość notatek z 401. oficjalnego spotkania Biskupów Polskich](https://www.ekai.pl/dokumenty/komunikat-z-401-zebrania-plenarnego-konferencji-episkopatu-polski/). Pierwotnie komisją kierował biskup Wojciech Polak, mający doświadczenie w prowadzeniu dochodzeń w sprawie wykorzystywania seksualnego w Kościele. Biskupi „podziękowali mu za całą pracę przygotowawczą”, ale postanowili usunąć go z komisji i powierzyć jej przewodnictwo biskupowi Sławomirowi Oderowi, który nie ma żadnego doświadczenia w tej dziedzinie. Innymi słowy, podjęli decyzję, która gwarantuje, że komisja nie zrobi nic skutecznego, ale jednocześnie mogą twierdzić, że komisji nie odwołali.
 
 Ahmed pisze: „Musimy się powtarzać, bo oni ciągle to robią”. „My”, którym zależy, którzy jesteśmy ofiarami lub chcemy się stanąć po ich stronie, musimy poruszać ten temat ponownie. I ponownie. Bądźmy gotowi na to, że będziemy postrzegani jako osoby powtarzające się – to się zdarzy, spodziewajmy się tego i zróbmy to mimo wszystko.
 
