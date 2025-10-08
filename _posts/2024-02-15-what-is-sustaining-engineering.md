@@ -14,7 +14,7 @@ If the JVM doesn't do what it should, there is a lot of real-world pain. A car f
 ![Sherlock Holmes Duke representing Sustaining](/assets/images/sherlock-duke-min.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Some years ago OpenJDK switched to a time-based "tip and tail" release model acknowledging that there are "developers, who prefer rapid innovation, and enterprises, which prefer stability"[^4][^5].
-The tip is the latest Feature Release, coming every six months, and the tail are the LTS releases. My job is caring about the latter. Delivering the stability of the tail, it turns out, is not the same as doing nothing[^6].
+The tip is the latest Feature Release, coming every six months, and the tail are the LTS (Long Term Support) releases. My job is caring about the latter. Delivering the stability of the tail, it turns out, is not the same as doing nothing[^6].
 Cryptographic algorithms change under our feet, as do operating systems, and even compilers. Vulnerabilities and bugs are discovered regularly. So Sustaining Engineering also means reacting to those changes[^7] to deliver the stability Java is valued for. Ideally we fix issues before they have a chance to harm anyone, and we don’t have to play detectives.
 
 Between wearing those two hats, and much more - I haven't had a boring day yet.
