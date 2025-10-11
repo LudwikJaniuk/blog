@@ -1,4 +1,5 @@
 ---
 title: Home
+layout: home
 ---
-My name is Ludvig Janiuk, I am a JVM Sustaining Engineer at Oracle. My opinions are my own.
+Full-time doing my best as the world is burning…
