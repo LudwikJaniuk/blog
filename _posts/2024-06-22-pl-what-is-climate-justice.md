@@ -1,6 +1,7 @@
 ---
 title: "Środowisko - Sprawiedliwość "
 date: 2024-06-22
+tags: polski
 ---
 
 “Climate Justice” czyli “Sprawiedliwość środowiska” to slogan który często wołamy na demonstracjach na rzecz środowiska, ale co mamy tak właściwie przez to na myśli? Staram się rozpakować własne myślenie na tym punkcie, i jestem otwarty na dyskusję.

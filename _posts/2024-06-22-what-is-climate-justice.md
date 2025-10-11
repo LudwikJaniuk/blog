@@ -1,6 +1,7 @@
 ---
 title: "What is Climate Justice?"
 date: 2024-06-22
+tags: english
 ---
 
 Climate Justice is a slogan often used at climate change demonstrations. But what do we actually mean when we shout it?

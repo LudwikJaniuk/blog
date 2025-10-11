@@ -1,6 +1,7 @@
 ---
 title: "Manifestationsrapport: No a la Copa America"
 date: 2024-10-16
+tags: svenska
 ---
 
 Jag deltog den 13 oktober i en demonstration mot "America's Cup" i Barcelona, Spanien, och vill dela min erfarenhet av den, särskilt kopplat till saker jag lärde mig på backademin[^1].

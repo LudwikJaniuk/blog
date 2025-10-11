@@ -1,6 +1,7 @@
 ---
 title: "Youth climate summit i Köpenhamn"
 date: 2025-03-30
+tags: svenska
 ---
 
 Vi är 80 unga klimataktivister från olika organisationer som får spendera en helg tillsammans på "Ungdomsøen" utanför Köpenhamn. Deltagarna kommer från olika organisationer - Natur og Ungdom (NO), Nødbremsen (DK), Friends of the Earth NOAH, European climate pact, och många fler. 

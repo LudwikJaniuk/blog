@@ -1,6 +1,7 @@
 ---
 title: "Reseberättelse Skuleskogen"
 date: 2025-05-05
+tags: svenska
 ---
 
 I går, efter min brors svensexa i Höga Kusten, kände jag att jag vill få vara med naturen lite längre. Det är ändå sällan jag är så här långt norrut. Två små utstickare bortom tomten hade redan sagt mig att skogen här var helt annorlunda än skogen jag är van vid i årstareservatet. Jag var inte förberedd, det var inte planerat, men jag bestämde mig till slut.

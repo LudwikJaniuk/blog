@@ -1,6 +1,7 @@
 ---
 title: "Vad har jag gjort för klimatet i veckan?"
 date: 2024-12-13
+tags: svenska
 ---
 
 Det här är för de som motiveras av lösningar, och för min egen skull, för att inte glömma det jag gör.

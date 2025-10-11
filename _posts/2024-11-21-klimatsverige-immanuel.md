@@ -1,6 +1,7 @@
 ---
 title: "Klimatsveriges event i Immanuelskyrkan"
 date: 2024-11-21
+tags: svenska
 ---
 
 Vissa dagar är hoppfulla. Det finns ändå månniskor som kämpar benhårt för en bättre framtid, och idag fick jag se många av dem i samma rum. Nätverket [Klimatsverige](https://klimatsverige.se/) ordnade nämligen en kväll med föreläsningar och workshops. Här följer en sammanfattning av mina takeaways.

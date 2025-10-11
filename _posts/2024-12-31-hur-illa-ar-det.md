@@ -1,6 +1,7 @@
 ---
 title: "Hur illa är det?"
 date: 2024-12-31
+tags: svenska
 ---
 
 Jag har på sistone fått höra variationer på "Det kan inte vara så illa. Man har varnat för en klimatkatastrof i åratal, och den har ju fortfarande inte kommit!" Det låter som att människor som säger detta föreställer sig filmen "2012", och tänker att jorden ska öppna sig under deras fötter och flodvågor spola över dem under loppet av en timme och trettio minuter, gärna med dramatisk musik. Men samtidigt har jag en viss förståelse för att man ser sig omkring, och ser livet flyta på, och tänker att allt ändå är ganska lugnt. 

@@ -1,6 +1,7 @@
 ---
 title: "Free Activists! Stop Oil!"
 date: 2024-07-24
+tags: english
 ---
 
 I just participated in a protest outside the British Embassy in Stockholm.

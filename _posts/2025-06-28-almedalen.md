@@ -1,6 +1,7 @@
 ---
 title: "Att förlora oskulden: Civilt motstånd i Almedalen"
 date: 2025-06-28
+tags: svenska
 ---
 
 Under min vecka på almedalen blev jag för första gången bortförd av polisen. 

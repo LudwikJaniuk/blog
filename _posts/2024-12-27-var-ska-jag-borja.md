@@ -1,6 +1,7 @@
 ---
 title: "Var ska jag börja?"
 date: 2024-12-27
+tags: svenska
 ---
 
 Om du är medveten om klimatkrisen, så kanske du känner en vilja att göra något åt saken, men inte riktigt vet vad. 

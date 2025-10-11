@@ -1,6 +1,7 @@
 ---
 title: "Vad är vi kallade att göra, när så stor fara nalkar?"
 date: 2025-01-22
+tags: svenska
 ---
 
 Min religion har lärt mig att "älska min nästa", och varje vecka överväger jag, tillsammans med andra troende, hur jag kan ha avvikit från detta "i tankar och ord, gärningar och underlåtelse." Jag föreställer mig att de flesta religioner lär ut något liknande.

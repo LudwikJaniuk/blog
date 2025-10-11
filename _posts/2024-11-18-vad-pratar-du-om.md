@@ -1,6 +1,7 @@
 ---
 title: "Vad pratar du om?"
 date: 2024-11-18
+tags: svenska
 ---
 
 Vad är det du pratar om?

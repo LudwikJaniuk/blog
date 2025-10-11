@@ -1,6 +1,7 @@
 ---
 title: "Fem hinder"
 date: 2025-03-25
+tags: svenska
 ---
 
 Vad hindrar dig från att agera på klimatförändringarna? Du kanske säger, "jag gillar inte hur klimataktivisterna beter sig", eller "jag har svårt att veta vem jag ska lita på." Och det är svårt att navigera dagens informationsandskap, det kan jag erkänna. Den norske psykologen Per Espen Stoknes definierade fem "hinder" som hindrar en person från att höra och agera på budskapet om klimatförändringarna. Hindren är:

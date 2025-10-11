@@ -1,6 +1,7 @@
 ---
 title: "Direct Heap Snapshotting in the Java HotSpot VM: a Prototype"
 date: 2020-08-26
+tags: english
 ---
 
 _This is a repost of my blog entry about my master thesis at Oracle. The original was [published on inside.java](https://inside.java/2020/08/26/heap-snapshotting/)_

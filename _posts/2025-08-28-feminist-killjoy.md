@@ -1,6 +1,7 @@
 ---
 title: "Bokrapport: The Feminist Killjoy Handbook, och hur Polska Katolska Kyrkan kommer undan med att tysta sexuellt utnyttjande av barn"
 date: 2025-08-28
+tags: svenska
 ---
 
 ![Bokens omslag](/assets/images/feminist-killjoy.jpg)

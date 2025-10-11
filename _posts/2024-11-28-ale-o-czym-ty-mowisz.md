@@ -1,6 +1,7 @@
 ---
 title: "Ale o czym ty mówisz?"
 date: 2024-11-28
+tags: polski
 ---
 
 Każdy kto mnie spotkał zapewne zauważył, że wciąż powracam do kryzysu klimatycznego. Poruszam ten temat, staram się o nim edukować, wiążą się z nim wielke emocje. Ale o czym ja tak właściwie mówię? Weźmy to od początku, z grubsza, bo chyba wielu osobom przyda się podsumowanie.

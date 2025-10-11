@@ -1,6 +1,7 @@
 ---
 title: "Rozżal się ze mną"
 date: 2025-04-12
+tags: polski
 ---
 
 Rozżal się ze mną

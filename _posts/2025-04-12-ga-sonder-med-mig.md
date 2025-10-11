@@ -1,6 +1,7 @@
 ---
 title: "Gå sönder lite med mig"
 date: 2025-04-12
+tags: svenska
 ---
 
 Gå sönder lite med mig

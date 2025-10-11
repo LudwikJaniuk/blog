@@ -1,6 +1,7 @@
 ---
 title: "Uwolnić aktywistów! Zatrzymać olej!"
 date: 2024-07-24
+tags: polski
 ---
 
 Właśnie uczestniczyłem w proteście przed brytyjską ambasadą w Sztokholmie. 

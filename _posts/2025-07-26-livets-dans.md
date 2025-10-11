@@ -1,6 +1,7 @@
 ---
 title: "Livets dans mot organiserad okunskap"
 date: 2025-07-26
+tags: svenska
 ---
 
 Jag försökte skriva en bön om det mest väsentliga, det jag behöver mest. Något jag kan återkomma till dag för dag, något som stärker mig och leder mig rätt, och rättar mig när jag går fel. Jag skrev:

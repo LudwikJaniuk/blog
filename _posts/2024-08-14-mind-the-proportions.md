@@ -1,6 +1,7 @@
 ---
 title: "Mind the proportions"
 date: 2024-08-14
+tags: english
 ---
 
 "Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much," says Jesus in the Parable of the Shrewd Manager (Luke 16:10). However, when it comes to the environment, many of us care excessively about "very little" and completely neglect "much". For example, one goes to great lengths segregating waste for recycling all year, and then flies to Thailand for a vacation. Segregation saves emissions [^1], but a flight produces much more [^2] - to "save" enough to make up for the one flight, one would have to segregate daily for many years. We forget about this because we forget about proportionality, and we are afraid of the truth.

@@ -1,6 +1,7 @@
 ---
 title: "A method for making important decisions"
 date: 2024-09-14
+tags: english
 ---
 
 My job sometimes pays for me to attend trainings, and one of these was "Problem Solving and Decision Making" by Kepner-Tregoe. 

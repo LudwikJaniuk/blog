@@ -1,6 +1,7 @@
 ---
 title: "Who was I two years ago?"
 date: 2024-07-13
+tags: english
 ---
 
 Two years ago, in the summer of 2022, I had a loving girlfriend. I was one year into my new job, trying to find my way around there. 

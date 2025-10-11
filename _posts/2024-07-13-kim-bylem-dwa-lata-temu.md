@@ -1,6 +1,7 @@
 ---
 title: "Kim byłem dwa lata temu?"
 date: 2024-07-13
+tags: polski
 ---
 
 Dwa lata temu, lato roku 2022, byłem kimś kto ma kochającą go dziewczynę. Miałem nową pracę (od roku) i starałem się w niej orientować. 

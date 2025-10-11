@@ -1,6 +1,7 @@
 ---
 title: "Tal utanför Norges ambassad"
 date: 2025-02-27
+tags: svenska
 ---
 
 _Jag höll detta tal utanför Norges Ambassad, när jag deltog i en fredlig demonstration efter Norges regering hade släppt nya oljeutvinningslicenser. Jag lägger upp det här för minnes skull._

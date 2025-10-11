@@ -1,6 +1,7 @@
 ---
 title: "O książce „The Feminist Killjoy Handbook” oraz o tym jak Kościół Katolicki w tym roku ucieka od odpowiedzialności za wykorzystywanie seksualne niepełnoletnich."
 date: 2025-08-28
+tags: polski
 ---
 
 ![Okladka ksiazki](/assets/images/feminist-killjoy.jpg)

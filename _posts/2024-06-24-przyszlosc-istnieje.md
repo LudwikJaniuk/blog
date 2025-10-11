@@ -1,6 +1,7 @@
 ---
 title: "Pryszłość istnieje"
 date: 2024-06-24
+tags: polski
 ---
 
 Dziś w drodzę do domu miałem ochotę na coś słodkiego. Czując ten ”mały głód” prawie zatrzymałem się przy spożywczaku żeby kupić garść cukierków które zacząłbym pałaszować już przed sklepem. Jednak dojechałem bez przystanków do domu i zjadłem zdrową kolację - ziemniaki, szpinak, soja. Ostry sos. Już czuję się nasycony. Natomiast tydzień temu wyszło odwrotnie, i rzeczywiście połykałem garście cukierków po drodze.

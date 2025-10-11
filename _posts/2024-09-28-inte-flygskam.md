@@ -1,6 +1,7 @@
 ---
 title: "Den här bloggen handlar inte om flygskam"
 date: 2024-09-28
+tags: svenska
 ---
 
 Flygskam: Flygandet har pekats ut som skadligt för miljön, och de som fortsätter flyga måste vara monster som inte bryr sig om planeten, de borde skämmas. 

@@ -1,6 +1,7 @@
 ---
 title: "Book report: „The Feminist Killjoy Handbook”, and how the Catholic Church in Poland gets away with silencing child abuse."
 date: 2025-08-28
+tags: english
 ---
 
 ![Book cover](/assets/images/feminist-killjoy.jpg)
