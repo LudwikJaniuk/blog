@@ -5,7 +5,7 @@ tags: polski
 layout: default
 ---
 
-![Mina ögon](/assets/images/eyes2.jpg)
+![Moje oczy](/assets/images/eyes2.jpg)
 
 Przez ostatnie dwa lata miałem jako cel w życiu żeby zapobiegać zmianom klimatul. Zacząłem od własnych nawyków, później starałem się inspirować innych w pracy, w rodzinie. Udzielałem się w wielu ruchach, a nawet w jednym [startupie](https://klimatkollen.se/en/), i wciąż się mnóstwo uczyłem. Teraz, raptem dwa tygodnie temu, podjąłem decyzję żeby rzucić pracę aby móc w stu procentach skupić się na kryzysie klimatycznym, i wpłynąc na te największe decyzje - na prawo, inwestycje, i tak dalej, bo tutaj najbardziej potrzebne są zmiany.
 
@@ -23,4 +23,4 @@ Aby się ze mną skontaktować w sprawach własnego zaangażowannia, pytań o ws
 
 Serdzcnie dziękuję wszystkim którzy mi dotychczas pomogli, dobrym słowem, czynem, czy w mnóstwo innycj sposobów.
 
-![Mina ögon](/assets/images/eyes3.jpg)
+![Moje oczy](/assets/images/eyes3.jpg)
