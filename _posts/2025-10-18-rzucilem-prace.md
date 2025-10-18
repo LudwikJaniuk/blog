@@ -5,6 +5,8 @@ tags: polski
 layout: default
 ---
 
+![Mina ögon](/assets/images/eyes2.jpg)
+
 Przez ostatnie dwa lata miałem jako cel w życiu żeby zapobiegać zmianom klimatul. Zacząłem od własnych nawyków, później starałem się inspirować innych w pracy, w rodzinie. Udzielałem się w wielu ruchach, a nawet w jednym [startupie](https://klimatkollen.se/en/), i wciąż się mnóstwo uczyłem. Teraz, raptem dwa tygodnie temu, podjąłem decyzję żeby rzucić pracę aby móc w stu procentach skupić się na kryzysie klimatycznym, i wpłynąc na te największe decyzje - na prawo, inwestycje, i tak dalej, bo tutaj najbardziej potrzebne są zmiany.
 
 Wydaje mi się że najlepszą szansę na skuteczne zmiany mają ruchy praktykująze bezprzemocowy obywatelski opór, tak na przykład dawna Solidarność, i współczesne „Ostatnie Pokolenie”. Nie jestem expertem od polityki, ale widzę jak te ruchy [osiągają rezultaty](https://www.socialchangelab.org/restore-wetlands-campaign). Takie ruchy zajmują się sednem problemu - którym nie jest brak nowych technologii, ani edukacji i  „świadomości”, tylko raczej konkretna walka o władzę i wolę polityczną. Wierzę też że nawet jeśli wielu rzeczy i ludzi nie uda nam się uratować, to stawienie oporu samo w sobie jest istotne i moralnie dobre, ale co jeszcze, być może przygotowuje nas na trudniejszy świat który nadchodzi, i mamy w ten sposób szansę już teraz ćwiczyć umiejętność współpracy i naszą solidarność. Poprzez zaangażowanie w organizacje cywilne wzmacniamy też demokrację, [która w wielu częściach świata się cofa](https://v-dem.net/). <u>Dlatego mam zamiar pomagać jak mogę w szwedzkich organizacjach pokojowego cywilnego oporu.</u> Ale pozostaję zawszę otwarty na to żeby zmienić zdanie, gdyby znalazł się jeszcze bardziej skuteczny sposók na kryzys klimatyczny. 
@@ -20,3 +22,5 @@ Obiecuję że zrobie wszystko w mojej mocy, ale że będę też dbał o siebie i
 Aby się ze mną skontaktować w sprawach własnego zaangażowannia, pytań o wsparcie finansowe, lub jakichkolwiek innych, można wysłać maila na adres <u>„ludvig kropka janiuk małpa proton kropka me”</u>
 
 Serdzcnie dziękuję wszystkim którzy mi dotychczas pomogli, dobrym słowem, czynem, czy w mnóstwo innycj sposobów.
+
+![Mina ögon](/assets/images/eyes3.jpg)
