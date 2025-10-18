@@ -1,8 +1,8 @@
 ---
 title: "Jag har sagt upp mig - vad händer nu?"
-date: 2025-09-06
+date: 2025-10-18
 tags: svenska
-layout: home
+layout: default
 ---
 
 De senaste två åren har mitt mål i livet varit att motverka klimatförändringarna. Jag började arbeta med att minska mina utsläpp, därefter att prata med andra och påverka på jobbet, hjälpa till i olika rörelser och vara med i [startups](https://klimatkollen.se/sv/), och hela tiden lära mig en massa. Och nu har jag alltså sagt upp mig på jobbet för att frigöra tid till klimataktivism på heltid - så att jag kan rå på de stora besluten, lagarna, och investeringarna. För det är där vi behöver åtgärder allra mest.
