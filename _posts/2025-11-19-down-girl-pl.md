@@ -2,7 +2,6 @@
 title: "Raport książkowy: Down Girl - Logika Mizoginii (Kate Manne)"
 date: 2025-11-19
 tags: polski
-layout: default
 ---
 
 Zacznę od tego że nie wiem czy „Mizoginia” to często używane słowo w polszczyźnie. Jesli nie, to proszę o przebaczenie. Ale idźmy w to.

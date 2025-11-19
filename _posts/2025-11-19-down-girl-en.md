@@ -2,7 +2,6 @@
 title: "Book report: Down Girl - The Logic of Misogyny (Kate Manne)"
 date: 2025-11-19
 tags: english
-layout: default
 ---
 
 What is misogyny, and how should we understand it? Kate Manne argues for a systemic view of the phenomenon in her book "Down Girl". She painstakingly describes the many levels on which misogyny plays out, from ridiculous centuries-old regulations about who gets to walk on the grass in universities, to modern relational violence, as well as the media perception of female politicians, and how some men get unexpextedly lenient sentences after having committed violent crimes. But it's far from a boring, academic-only book - Manne's argumentation is driven by real-life events from current memory.
