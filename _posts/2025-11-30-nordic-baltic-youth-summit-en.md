@@ -15,7 +15,7 @@ My goal with the trip was to speak clearly about the climate crisis: to convey t
 
 ![Road sign with regulation of CO2 levels](/assets/images/NBYS-co2.jpg)
 
-I got to give a speech! I used storytelling to introduce the possibility of civilization collapse, and tried to lighten the mood, [step in and out of the horror](https://blog.janiuk.se/2025/10/12/trauma-pendulation.html), to help people stay engaged. But I don't think it was enough. The audience looked so sad, so downcast and turned off at the key moments. Is there a word for this? When the brain censors out messages that are too horrible to take in? I also tried to give actionable tips: three typical lies in greenwashing, two tools for better climate talks. But later everyone seemed to completely ignore my tips and my tools. I don't know what I expected, but I can only hope that what I said at least sinks in over time.
+I got to give a [speech](https://www.youtube.com/watch?v=ZvypVIsQgX8)! I used storytelling to introduce the possibility of civilization collapse, and tried to lighten the mood, [step in and out of the horror](https://blog.janiuk.se/2025/10/12/trauma-pendulation.html), to help people stay engaged. But I don't think it was enough. The audience looked so sad, so downcast and turned off at the key moments. Is there a word for this? When the brain censors out messages that are too horrible to take in? I also tried to give actionable tips: three typical lies in greenwashing, two tools for better climate talks. But later everyone seemed to completely ignore my tips and my tools. I don't know what I expected, but I can only hope that what I said at least sinks in over time.
 
 <details>
 <summary>Click here to see the tips I gave.</summary>
