@@ -1,8 +1,7 @@
 ---
 title: About
 ---
-I live in Stockholm and studied computer science at KTH, master's degree with focus on Theoretical Computer Science. 
-Current interests include leadership and change management. I co-run [Stockholm Lean Coffee](https://www.meetup.com/stockholm-lean-coffee/) and participate actively in the climate movement.
+I live in Malmö and engage in full time climate activism. This means many things - from protests to prayer groups. I studied computer science at KTH, master's degree with focus on Theoretical Computer Science. Interests include leadership and change management. I co-ran [Stockholm Lean Coffee](https://www.meetup.com/stockholm-lean-coffee/) and currently run [klimatkalendern](www.klimatkalendern.nu).
 
 Mastodon: @janiuk@mastodon.nu
 
