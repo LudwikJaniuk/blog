@@ -5,6 +5,8 @@ tags: polski
 layout: default
 ---
 
+# Przeprowadzilem się do Malmö!
+
 utaj spróbuję wypróbuję nowe życie. Wiele osób pyta mnie, dlaczego się przeprowadzam – tyle pracy wymaga załatwienie spraw praktycznych, a już tęsknię za rodziną i przyjaciółmi w Sztokholmie. Trudno mi wytłumaczyć, dlaczego tego potrzebuję, nawet sobie samemu. Ale kiedy patrzę na rozgwieżdżone niebo, które jest ciemniejsze, mniej zanieczyszczone wiecznie zapalonymi światłami miasta, wiem że robię coś dobrze. Czy moje ciało próbuje mi coś powiedzieć o chronicznym stresie?
 
 ![Widok w Malmö o poranku](/assets/images/malmo-utsikt.jpg)

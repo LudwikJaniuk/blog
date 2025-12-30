@@ -5,6 +5,8 @@ tags: english
 layout: default
 ---
 
+# I've moved to Malmö!
+
 Here I will try my hand at a life. Many people ask me why I am moving - it is so much work to arrange the practicalities, and I already miss my family and friends in Stockholm. It is hard to explain why I need this, even to myself. But when I look out over the starry sky, darker, less polluted by city lights, then I know it feels right. Is my body trying to tell me something about chronic stress?
 
 ![The view in Malmö in the morning](/assets/images/malmo-utsikt.jpg)

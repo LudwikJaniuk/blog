@@ -5,6 +5,8 @@ tags: svenska
 layout: default
 ---
 
+# Jag har flyttat till Malmö!
+
 Här kommer jag försöka mig på ett liv. Många frågar mig varför jag flyttar - det är så mycket arbete med att ordna det praktiska, och jag saknar redan min familj och mina vänner i Stockholm. Det är svårt att förklara varför jag behöver det här, ens för mig själv. Men när jag tittar ut över stjärnhimlen som är mörkare, mindre förorenad av stadsljus som alltid är på, då vet jag att det känns rätt. Försöker min kropp säga något om kronisk stress?
 
 ![Utsikten i Malmö på morgonen](/assets/images/malmo-utsikt.jpg)
