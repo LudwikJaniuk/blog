@@ -1,5 +1,5 @@
 ---
-title: "I've moved to Malmö"
+title: "I've moved to Malmö!"
 date: 2025-12-30
 tags: english
 layout: default
