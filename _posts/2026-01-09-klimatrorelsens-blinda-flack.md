@@ -1,11 +1,11 @@
 ---
-title: "Moloch: klimatrörelsens blinda fläck"
+title: "Är Moloch klimatrörelsens blinda fläck?"
 date: 2026-01-09
 tags: svenska
 layout: default
 ---
 
-## Moloch: klimatrörelsens blinda fläck
+## Är Moloch klimatrörelsens blinda fläck?
 
 Jag har just hållit min första informatörsworkshop med Jordens Vänner. Tillsammans med en annan ledare höll vi två dagar med information, övningar och diskussioner om klimaträttvisa på Arbetarrörelsens Folkhögskola i Göteborg. Det har varit ett mål för mig att prata om klimatet på skolor, för att skärpa min argumentation och se om jag förstår det jag själv säger så bra att jag kan förklara för andra. Denna klass var dock vuxna, på grund av att det är en folkhögskola. 
 
