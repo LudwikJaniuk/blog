@@ -1,11 +1,11 @@
 ---
-title: "Klimatrörelsens blinda fläck"
+title: "Moloch: klimatrörelsens blinda fläck"
 date: 2026-01-09
 tags: svenska
 layout: default
 ---
 
-## Workshop om klimaträttvisa i Göteborg
+## Moloch: klimatrörelsens blinda fläck
 
 Jag har just hållit min första informatörsworkshop med Jordens Vänner. Tillsammans med en annan ledare höll vi två dagar med information, övningar och diskussioner om klimaträttvisa på Arbetarrörelsens Folkhögskola i Göteborg. Det har varit ett mål för mig att prata om klimatet på skolor, för att skärpa min argumentation och se om jag förstår det jag själv säger så bra att jag kan förklara för andra. Denna klass var dock vuxna, på grund av att det är en folkhögskola. 
 
@@ -31,9 +31,13 @@ Jag stöter på få i klimatrörelsen som hört talas om begreppet. Jag vet inte
 ## Axiomet om möjligheten av globalt samarbete
 
 Många argument förda i klimatrörelsen innehåller ett implicit axiom, det vill säga ett antagande som förutsätts vara sant och inte behöva beläggas i sig. Det låter undefär såhär: 
+
 > "Det är möjligt för människosläktet på jorden att samarbeta för gemensamma mål."
+
 Det må inte alltid hända, det må vara svårt, men axiomet påstår bara att det överhuvudtaget är möjligt. Om detta axiom kunde visas vara 100% alltid falskt, då skulle många argument framförda av klimatförsvarare vara ologiska. De skulle kanske på sin höjd kunna försvaras på övernaturligt grund eller någon hänvisning till högre värden, men inte med hänvisning till självbevarelsedrift. Jag menar främst olika varianter av påståendet:
+
 > "Stater bör fasa ut fossila bränslen och få ner sina koldioxidutsläpp, samt ingå överenskommelser med andra stater att göra detsamma, för att förhindra en katastrofal uppvärmning av planeten som skulle äventyra civilisationens existens."
+
 Just Moloch-dynamiken slår ett slag mot dessa argument då den starkt ifrågasätter huruvida globalt samarbete ens är möjligt. Som jämförelse, här är några andra påståenden som jag inte ser motsätts av Moloch-dynamiken:
 
  - "Individuella människor borde begränsa sina utsläpp för att det är inte rättvist att bidra till uppvärmningen av planeten, och därmed andras lidande, mer än nödvändigt." (Hänvisning till rättvisa som högre värde)
