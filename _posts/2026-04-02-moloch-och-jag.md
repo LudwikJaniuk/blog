@@ -5,7 +5,7 @@ tags: svenska
 layout: default
 ---
 
-_Denna text har publicerats i Växjös gnista. Jag postar den även här, med några minimala finpoleringsändringar._
+_Denna text har publicerats i [Växjös gnista](https://www.vaxjosgnista.se/nr-4-klimatkris/). Jag postar den även här, med några minimala finpoleringsändringar._
 
 # Moloch, klimatkrisen, och jag
 
