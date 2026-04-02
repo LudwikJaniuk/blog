@@ -1,5 +1,5 @@
 ---
-title: "Moloch, klimatkrisen, och jag"
+title: "Moloch och vi"
 date: 2026-04-02
 tags: svenska
 layout: default
@@ -7,7 +7,7 @@ layout: default
 
 _Denna text har publicerats i [Växjös gnista](https://www.vaxjosgnista.se/nr-4-klimatkris/). Jag postar den även här, med några minimala finpoleringsändringar._
 
-# Moloch, klimatkrisen, och jag
+# Moloch och vi
 
 Hej, jag heter Ludvig, och jag är klimataktivist på heltid. Kalla mig naiv, men jag önskar att alla människor samarbetade för det gemensamma bästa, och avskyr faktumet att vi inte gör det. Det är ett mönster som återkommer gång på gång - ta exempel som skattefusk, överfiske, vapenrustning, eller klimatkris. Människor, företag, eller länder gör sånt som ger dem ett tillfälligt försprång, men effekterna blir något annat som alla fruktar: kollapsande välfärd, svält, och atombomber. Ingen vill ha en värld med dessa saker, men likt förbannat bygger vi den. Vad gör att det blir så? Är det någon osynlig kraft som manar oss människor att agera på detta vis? Och om så - kan vi säga något om den här kraftens natur?
 
