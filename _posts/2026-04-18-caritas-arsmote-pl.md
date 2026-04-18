@@ -1,6 +1,6 @@
 ---
 title: "Dumny z siebie po spotkaniu Caritas"
-date: 2026-04-19
+date: 2026-04-18
 tags: polski
 layout: default
 ---

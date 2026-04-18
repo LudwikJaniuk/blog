@@ -1,6 +1,6 @@
 ---
 title: "I feel proud of myself after Caritas' annual meeting"
-date: 2026-04-19
+date: 2026-04-18
 tags: english
 layout: default
 ---
