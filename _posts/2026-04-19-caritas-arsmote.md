@@ -1,6 +1,6 @@
 ---
 title: "Stolt över mig själv efter Caritas årsmöte"
-date: 2026-04-19
+date: 2026-04-18
 tags: svenska
 layout: default
 ---
