@@ -17,5 +17,5 @@ Ofta vill jag att andra ska engagera sig på samma sätt som jag gör, genom att
 
 Trots att just den här konstellationen människor aldrig träffat varandra förut, så var vi efter den tredje träffen mer _i fas_ med varandra än vissa arbetslag jag sett vara efter flera år. Vi var uppmärksamma på varandra, vi hade byggt upp en tillit, och en välvilja. De andra pratade även om stora förändringar som skett i deras liv under tiden mellan träffarna - hur deras uppmärksamhet hade påverkats, hur de gjort saker eller deltagit i samtal som de annars inte hade gjort.
 
-Vill du testa själv? Materialet går att beställa gratis på [hoppochsorg.se](hoppochsorg.se). Bjud ihop några vänner vetja - ni kanske kommer närmare varandra än ni vågar tro!
+Vill du testa själv? Materialet går att beställa gratis på [hoppochsorg.se](https://www.hoppochsorg.se). Bjud ihop några vänner vetja - ni kanske kommer närmare varandra än ni vågar tro!
 
