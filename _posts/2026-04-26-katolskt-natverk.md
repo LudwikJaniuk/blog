@@ -1,4 +1,3 @@
-
 ---
 title: "Om mina projekt - Katolskt nätverk för människan och jorden"
 date: 2026-04-26
@@ -8,8 +7,7 @@ layout: default
 
 # Om mina projekt - Katolskt nätverk för människan och jorden
 
-
-Ett av mina pågående projekt som syftar till att bemöta klimatkrisen, är "katolskt nätverk för människan och jorden." I denna blogg tänkte jag berätta lite om dess bakgrund, strategi, och planer framåt.
+Ett av mina pågående projekt som syftar till att bemöta klimatkrisen är "katolskt nätverk för människan och jorden." I denna blogg tänkte jag berätta lite om dess bakgrund, strategi, och planer framåt.
 
 Det finns 1.4 miljarder katoliker i Världen, 129 000 i Sverige, och 27 000 000 i Polen som är mina föräldrars hemland. En ganska signifikant folkgrupp ändå. Ska man tänka sig att vi ska samarbeta över statsgränser för att undvika krig och begränsa klimatkrisen, så skulle Katolikernas bidrag vara värdefullt. Kyrkan kan även i bästa fall vara en aktör som står upp för långsiktiga mänskliga värden, kan förespråka återhållsamhet och begränsningar, vilket varken företag eller regeringar verkar fysiskt kapabla till. Kort och gott: jag ser en viktig potential för katolska kyrkan att spela roll i klimatkrisen.
 
