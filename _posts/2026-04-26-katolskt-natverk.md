@@ -67,6 +67,5 @@ Tack om du läst såhär långt! Snart kanske jag skriver några fler bloggar so
 
 [^1]: Naomi Oreskes har dokumenterat detta bland annat i boken "Merchants of Doubt".
 [^2]: Jag har en vän som alltid argumenterar att desinvestering är ineffektivt, att fossilindutrin bara får kapital från annat håll. Vi kommer nog fortsätta argumentera länge om det, jag säger bara att om du tycker något är dåligt så borde du inte investera i det.
-[^3]: (Med några få undantag.)[https://www.svenskakyrkan.se/stockholmsstift/minnesgudstjanst-for-utdoda-arter]
+[^3]: [Med några få undantag.](https://www.svenskakyrkan.se/stockholmsstift/minnesgudstjanst-for-utdoda-arter)
 
-![](/assets/images/xxx.jpeg)
