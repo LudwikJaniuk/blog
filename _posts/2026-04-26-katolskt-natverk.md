@@ -34,11 +34,11 @@ för fossila bränslen och utvecklandet av förnybara energikällor.
 Tillgången i världen på ren och förnybar energi är minimal. Det
 finns fortfarande behov av att utveckla fungerande teknologier
 för lagring. En del länder har gjort avsevärda framsteg men utgör
-långt ifrån någon markant andel. Investeringar har också gjorts i
+långt ifrån någon markant andel.  Investeringar har också gjorts i
 produktion och transporter som kräver mindre energi och råmaterial, liksom i metoder för byggande och husrenovering som höjer energieffektiviteten. Men sådana goda exempel är fortfarande
 långt ifrån allmänt förekommande.
 
-Ska det behövas att Påven ska förklara allt det här då? Nej, påven är inte auktoritet på atmosfärisk simulering eller isvattenflöden - det har vi vetenskapsmän till. Men de har redan sagt allt det här i decennier. Tyvärr lyssnar vi inte - dels saknar många förmågan att urskilja, dels saboteras de aktivt av fossilindustrins lobbyapparat som aktivt sår tvivel och osäkerher, som med flit undergräver legitima forskares auktoritet för ekonomiska och ideologika intressen[^1]. I den situationen är det signifikant att påven tar sig tiden att saga det självklara - det skickar en signal, det markerar att det här behöver vi lägga uppmärksamhet på. 
+Ska det behövas att påven ska förklara allt det här då? Nej, påven är inte auktoritet på atmosfärisk simulering eller isvattenflöden - det har vi vetenskapsmän till. Men de har redan sagt allt det här i decennier. Tyvärr lyssnar vi inte - dels saknar många förmågan att urskilja, dels saboteras de aktivt av fossilindustrins lobbyapparat som aktivt sår tvivel och osäkerher, som med flit undergräver legitima forskares auktoritet för ekonomiska och ideologika intressen[^1]. I den situationen är det signifikant att påven tar sig tiden att saga det självklara - det skickar en signal, det markerar att det här behöver vi lägga uppmärksamhet på. 
 
 Laudato Sí är en undebar text, den innehåller så mycket mer än bara den vetenskapliga inledningen. Även icke-troende kan nog lära sig mycket på ett filosofiskt-etiskt plan av hur han postionerar oss i relation till andras lidande i världen genom klimatkrisen. Franciskus skrev åtta år senare en andra text, "Laudate Deum", som är kortare men mycket skarpare och inte lämnar några tvivel vad gäller hans budskap: det finns ingen ursäkt att inte engagera sig för att hindra klimatkrisen, som katolik. Börjar man lyssna efter det lägger man förresten märke till samma budskap hos flera tidigare påvar, och nuvarande påve Leo fortsätter på samma spår.
 
