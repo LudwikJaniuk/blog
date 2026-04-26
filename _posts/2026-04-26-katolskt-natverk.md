@@ -52,7 +52,7 @@ Tillsammans med Björn, en dominikansk munk i Lund, bygger vi ett "katolskt nät
 
 Vi började med ett upprop. Vi ville att det skulle tala klarspråk om klimatkrisen, krig, och ojämlikhet, och samtidigt inte avfärdas som "politiskt". Resultatet ligger publicerat på [katolska kyrkans officiella webbsida](https://www.katolskakyrkan.se/kyrkan-i-sverige/justitia-et-pax/sociallaran-i-praktiken/upprop-for-manniskan-och-jorden) (scrolla ner). Det är en text som tog flera månaders arbete och avvägning, men som jag är ordentligt stolt över. 
 
-För att sedan nå ut med uppropet, och bjuda in till tre zoom-träffar, använde vi en strategi som till stor del gick ut på att utnyttja gamla goda... facebook. Japp - jag sökte upp några dussin katolska facebookgrupper, gick med, och delade informationen där, som komplement till att Kasolska Kyrkans officiella konto också postade den där och på instagram. Det funkade. Vi fick in 10-20 deltagare ändå från hela Sverige, inga massor men en tillräcklig start att jobba från.
+För att sedan nå ut med uppropet, och bjuda in till tre zoom-träffar, använde vi en strategi som till stor del gick ut på att utnyttja gamla goda... facebook. Japp - jag sökte upp några dussin katolska facebookgrupper, gick med, och delade informationen där, som komplement till att Katolska Kyrkans officiella konto också postade den där och på instagram. Det funkade. Vi fick in 10-20 deltagare ändå från hela Sverige, inga massor men en tillräcklig start att jobba från.
 
 I Zoommötena presenterade jag och Björn olika reflektioner och fördjupningar i hur den katolska socialläran kallar till att värna skapelsen. För "deltagarna måste känna att de får nåt". Detta som komplement till gemenskapsskapande och agensbyggande övningar och hemläxor. 
 
