@@ -58,7 +58,11 @@ I Zoommötena presenterade jag och Björn olika reflektioner och fördjupningar 
 
 Nu har vi haft en första fysisk träff igår, där vi kunde gå på djupet mycket mer och börja planera väldigt konkreta aktiviteter. För det här är nästa steg: i September har kyrkorna något som kallas ["Skapelsetid"](https://www.skr.org/vart-arbete/hallbar-utveckling/skapelsetid/), och det är den perfekta tiden för katoliker att ordna synliga, positiva initiativ med budskapet att skapelsen är viktig. Så vi jobbar stenhårt nu för att stötta och uppmuntra deltagarna över hela Sverige att komma på idéer och förverkliga dem, efter vad som känns kul och passar i deras kontext. Förhoppningsvis blir den gemensamma effekten verkligen kännbar, och inspirerar vidare många fler katoliker att komma igång själva.
 
-Som slutkläm kan jag säga att det ger mig mycket att engagera mig i ett lite annat kontext än typisk "aktivism", det bringar mig till kontemplation och eftertanke på ett nytt sätt. Jag får hjälp och ett sammanhang att överväga hur mitt engagemang i klimatkrisen hänger ihop med allt på ett andligt sätt, också. Och vad jag lär mig mycket om hur man ska prata för att nå människors hjärtan. 
+Som slutkläm kan jag säga att det ger mig mycket att engagera mig i ett lite annat kontext än typisk "aktivism", det bringar mig till kontemplation och eftertanke på ett nytt sätt. Jag får hjälp och ett sammanhang att överväga hur mitt engagemang i klimatkrisen hänger ihop med allt på ett andligt sätt, också. Och jag lär mig mycket om hur man ska prata för att nå människors hjärtan. 
+
+Tack om du läst såhär långt! Snart kanske jag skriver några fler bloggar som djupdyker i andra projekt jag har på gång, och strategin bakom dem!
+
+Tack om du läst såhär långt! Snart kanske jag skriver några fler bloggar som djupdyker i andra projekt jag har på gång, och strategin bakom dem!
 
 
 [^1]: Naomi Oreskes har dokumenterat detta bland annat i boken "Merchants of Doubt".
