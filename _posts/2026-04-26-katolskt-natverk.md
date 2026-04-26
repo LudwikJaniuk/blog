@@ -14,35 +14,28 @@ Det finns 1.4 miljarder katoliker i världen, 129 000 i Sverige, och 27 000 000 
 Det visar sig också att åtminstone kyrkans högsta hierarki, de senaste påvarna och deras team, inte suttit på sina händer, utan faktiskt flitigt lagt grundvalarna för just detta. Den förre påven Franciskus, må han vila i frid, är det självklara exemplet, allra tydligast genom sin encyklika Laudato Sí, vars hela första kapitel är en naturvetenskaplig lektion i klimatkrisen, dess orsaker, och dess konsekvenser. Påven förklarar klimatsystemet, vattentillgång, biologisk mångfald, skog, världshaven, urbanisering, mediers påverkan på människor, och global ojämlikhet. Här är bara några exempel (ladda ner texten [här](https://www.katolskakyrkan.se/kyrkan-i-varlden/den-katolska-sociallaran/laudato-si-pave-franciskus-encyklika-om-miljon)):
 
 > Klimatet är något gemensamt gott, tillhörigt alla och ämnat för
-alla. På den globala nivån är det ett komplext system länkat till fle-
-ra av det mänskliga livets viktigaste förutsättningar. Det råder en
+alla. På den globala nivån är det ett komplext system länkat till flera av det mänskliga livets viktigaste förutsättningar. Det råder en
 mycket solid vetenskaplig samstämmighet om att vi bevittnar en
 oroande klimatuppvärmning. Under de senaste decennierna har
 denna uppvärmning åtföljts av en oavbruten höjning av havsnivån
-och, som det förefaller, av en ökning av extrema väderförhållan-
+och, som det förefaller, av en ökning av extrema väderförhållan
 den, även om vetenskapligt fastställda orsaker inte kan kopplas
-till varje enskilt fenomen. Mänskligheten måste inse nödvändig-
-heten av förändringar när det gäller livsstil, produktion och kon-
-sumtion för att bekämpa denna uppvärmning eller åtminstone de
+till varje enskilt fenomen. Mänskligheten måste inse nödvändigheten av förändringar när det gäller livsstil, produktion och konsumtion för att bekämpa denna uppvärmning eller åtminstone de
 mänskliga orsaker som åstadkommer eller förvärrar situationen.
 
 > Många av dem som äger betydande resurser och ekonomisk och
 politisk makt förefaller främst upptagna av att dölja problemen
-eller förtiga symtomen, och försöker bara dämpa några av de ne-
-gativa verkningarna av klimatförändringen. Tyvärr visar många
+eller förtiga symtomen, och försöker bara dämpa några av de negativa verkningarna av klimatförändringen. Tyvärr visar många
 av dessa symtom att effekterna kommer att bli allt värre om vi
 fortsätter med nuvarande produktions- och konsumtionsmodeller.
 Det finns ett brådskande behov av att utveckla strategier så att
-utsläpp av koldioxid och andra höggradigt förorenande gaser dras-
-tiskt kan minska inom de närmaste åren, till exempel ersättning
+utsläpp av koldioxid och andra höggradigt förorenande gaser drastiskt kan minska inom de närmaste åren, till exempel ersättning
 för fossila bränslen och utvecklandet av förnybara energikällor.
 Tillgången i världen på ren och förnybar energi är minimal. Det
 finns fortfarande behov av att utveckla fungerande teknologier
 för lagring. En del länder har gjort avsevärda framsteg men utgör
 långt ifrån någon markant andel. Investeringar har också gjorts i
-produktion och transporter som kräver mindre energi och råma-
-terial, liksom i metoder för byggande och husrenovering som hö-
-jer energieffektiviteten. Men sådana goda exempel är fortfarande
+produktion och transporter som kräver mindre energi och råmaterial, liksom i metoder för byggande och husrenovering som höjer energieffektiviteten. Men sådana goda exempel är fortfarande
 långt ifrån allmänt förekommande.
 
 Ska det behövas att Påven ska förklara allt det här då? Nej, påven är inte auktoritet på atmosfärisk simulering eller isvattenflöden - det har vi vetenskapsmän till. Men de har redan sagt allt det här i decennier. Tyvärr lyssnar vi inte - dels saknar många förmågan att urskilja, dels saboteras de aktivt av fossilindustrins lobbyapparat som aktivt sår tvivel och osäkerher, som med flit undergräver legitima forskares auktoritet för ekonomiska och ideologika intressen[^1]. I den situationen är det signifikant att påven tar sig tiden att saga det självklara - det skickar en signal, det markerar att det här behöver vi lägga uppmärksamhet på. 
