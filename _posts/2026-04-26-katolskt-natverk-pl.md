@@ -5,7 +5,7 @@ tags: polski
 layout: default
 ---
 
-# Sieć katolików dla dobra ludzkości i ziemi
+# O moich projektach - Sieć katolików dla dobra ludzkości i ziemi
 
 Jednym z moich bieżących projektów, którego celem jest odpowiedzenie na kryzys klimatyczny, jest „Sieć katolików dla dobra ludzkości i ziemi”. W tym wpisie na blogu chciałbym opowiedzieć trochę o historii tego projektu, o mojej strategii i o planach na przyszłość.
 
