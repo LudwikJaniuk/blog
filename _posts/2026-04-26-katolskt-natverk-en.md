@@ -1,13 +1,13 @@
 ---
-title: "About my projects - Catholic Network for the People and the Earth"
+title: "About my projects - Catholic Network for humanity and the Earth"
 date: 2026-04-26
 tags: english
 layout: default
 ---
 
-# About my projects - Catholic Network for the People and the Earth
+# About my projects - Catholic Network for humanity and the Earth
 
-One of my ongoing projects that aims to address the climate crisis is the "Catholic Network for the People and the Earth." In this blog I thought I would tell you a little about its background, strategy, and plans for the future.
+One of my ongoing projects that aims to address the climate crisis is the "Catholic Network for humanity and the Earth." In this blog I thought I would tell you a little about its background, strategy, and plans for the future.
 
 There are 1.4 billion Catholics in the world, 129,000 in Sweden, and 27,000,000 in Poland, which is my parents' homeland. A fairly significant group of people. If we are to imagine that we should cooperate across state borders to avoid war and limit the climate crisis, then the contribution of Catholics would be valuable. The church can also, at best, be an actor that stands up for long-term human values, can advocate restraint and limitations, which neither companies nor governments seem physically capable of. In short: I see an important potential for the Catholic Church to play a role in the climate crisis.
 
