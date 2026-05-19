@@ -11,7 +11,7 @@ layout: default
 
 Tak zaczyna się księga Hioba, tekst biblijny pełen emocji, paradoksów, i długich oracji. Jest to refleksja na temat zła doświadczonego przez człowieka prawego. Czy cierpenie jest karą za grzechy? Jeśli nie, czy jest konsekwencją naszych czynów? 
 
-Gdy mijam bezdomnego, część mnie myśli sobie "jakie szczęście że to nie ja. Mi to sie nie przydarzy, bo..." A tak rzeczywiscie to kazdemu sie moze przydarzyc! Stoimy wobec własnej bezsilnosci i śmiertelnosci. Od niechęci pozostania przy tej prawdzie rodzą się nieskończone bezsensowne toki myśli i pracy. Mimo jego prawości, Bóg zsyła na Hioba wielkie cierpienia, i to go przytłacza. Hiob nie rozumie co się dzieje. Zaczyna poważnie kwestionować swój obraz rzeczywistości, a także swój obraz Boga. 
+Gdy mijam bezdomnego, część mnie myśli sobie "jakie szczęście że to nie ja. Mi to sie nie przydarzy, bo..." A tak rzeczywiscie to kazdemu sie moze przydarzyć! Stoimy wobec własnej bezsilnosci i śmiertelnosci. Od niechęci pozostania przy tej prawdzie rodzą się nieskończone bezsensowne toki myśli i pracy. Mimo jego prawości, Bóg zsyła na Hioba wielkie cierpienia, i to go przytłacza. Hiob nie rozumie co się dzieje. Zaczyna poważnie kwestionować swój obraz rzeczywistości, a także swój obraz Boga. 
 
 ![Stara winda dla łodźi podwodnych w Malmö](/assets/images/winda.jpg)
 Hiob ma trzech przyjaciół: Elifaza, Bildada, i Sofara. Przychodzą oni gdy słyszą o cierpieniu Hioba, i siedzą z nim długo w milczeniu, „gdyż wiedzą że jego ból jest wielki”. Jednak gdy Hiob wreszcie wyraża co doświadcza, oni wymądrzają się nad nim. „Oj, musiałeś nagrzeszyć, bo Bóg by cię tak nie doświadzył. Przyznaj się!” - tak mniej więcej brzmią rozdziąły 4 do 31 tej księgi.
