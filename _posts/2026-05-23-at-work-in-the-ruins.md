@@ -11,7 +11,7 @@ layout: default
 
 Går det fortfarande att prata om klimatkrisen? Alltså leder det någonvart?
 
-I boken "At work in the ruins" har Dougald Hine har satt ord på många svåra frågor jag burit på ett tag. Han beskriver den emotionella resan från att man inser att klimatkrisen är illa:
+I boken "At work in the ruins" har den erfarne klimataktivisten Dougald Hine satt ord på många svåra frågor jag burit på ett tag. Han beskriver den emotionella resan från att man inser att klimatkrisen är illa:
 
 > Somewhere after that first _oh-fuck_ moment, when you've made all the changes you can think of, there comes the realisation that it might not be enough: you could turn your life into a checklist of things to do to stop climate change, you could go on every demonstration and throw yourself into every direct action, and climate change might just roll on over you and everyone you know. 
 

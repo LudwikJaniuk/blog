@@ -20,5 +20,6 @@ with open("_posts/" + curr_date + "-" + title + ".md", "w") as f:
     "<DATE>", curr_date).replace(
         "<TITLE>", title))
 
+print("vim " + "_posts/" + curr_date + "-" + title + ".md")
 
 
