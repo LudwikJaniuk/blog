@@ -1,11 +1,11 @@
 ---
-title: "Krisernas tid - ekologi och ekonomi under kapitalismen (Ståle Holgersson)"
+title: "Krisernas tid - ekologi och ekonomi under kapitalismen (Ståle Holgersen)"
 date: 2026-06-17
 tags: svenska
 layout: default
 ---
 
-# Krisernas tid - ekologi och ekonomi under kapitalismen (Ståle Holgersson)
+# Krisernas tid - ekologi och ekonomi under kapitalismen (Ståle Holgersen)
 
 ![](/assets/images/krisernas-tid.jpeg)
 
