@@ -13,6 +13,8 @@ Ojämlikhet och maktrelationer ramar in handlingsutrymmet för att hantera detta
 
 Så de allra rikaste - de som äger störst förmögenhet och som använder sin makt för att fortsätta öka den och göra den ännu större - är fienden. De är mänsklighetens fiende #1. Det vore i vårat intresse att vända oss emot dem, men det vi ofta gör är raka motsatsen, vi frågar "hur kan vi hjälpa er mörda oss?"
 
+![T-shirt tryck med texten "Miljardärer = Klimathot"](/assets/images/miljardarer-klimathot.jpg)
+
 Ta ett svenskt exempel. Jacob Wallenberg pressade nyligen skatteverket att glömma bort en skatteskuld på 285 miljoner kronor från flygbolaget BRA[^2]. Det känns inte så bra - en miljardärs makt skapar alltså både korruption och ökat klimathot. Men när jag argumenterar för att beskatta miljardärer i Sverige, så hör jag ofta motargumentet "nej, då kommer de flytta härifrån...". Det likställer jag med att säga "Hur kan vi hjälpa er mörda oss?" Men jag vill säga det med viss empati. Vi orienterar oss efter makt, det är mänskligt, för vi erkänner att makten påverkar oss. Dock måste upproret börja någonstans när makten går för långt och härsknar.
 
 Vi åker till Almedalen för att synliggöra extrem ojämlikhet i Sverige, som ligger på topp-10 listan i världen, tillsammans med Saudiarabien. Vi har fler miljardärer per capita än USA. Och det är ett existentiellt hot. Vi som inte är miljardärer behöver gänga upp oss och införa begränsningar på den extrema makt som ansamlas.[^3] 
