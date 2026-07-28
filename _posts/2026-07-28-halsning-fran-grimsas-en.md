@@ -1,7 +1,7 @@
 ---
 title: "Greetings from Grimsås"
 date: 2026-07-28
-tags: svenska
+tags: english
 layout: default
 ---
 

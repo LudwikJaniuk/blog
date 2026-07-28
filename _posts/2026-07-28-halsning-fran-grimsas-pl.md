@@ -1,7 +1,7 @@
 ---
 title: "Pozdrowienia z Grimsås!"
 date: 2026-07-28
-tags: svenska
+tags: polski
 layout: default
 ---
 
