@@ -21,7 +21,7 @@ Så - jag kommer återhämta mig nu. Jag har gjort mitt för stunden. Vad som h�
 ![Jag får mat efter att ha blivit utsläppt från polisen](/assets/images/neova-jyvaskyla-utslappt.jpg)
 
 
-[Här är pressmeddelandet som Återställ Våtmarker skickade ut.](https://aterstallvatmarker.se/press/neovas-huvudkontor-i-finland-nedsprutat-av-aaterstall-vatmarker). Om aktionen rapporterades av olika nyhetsbyråer i Finland: [nyhetssökning](https://aterstallvatmarker.se/press/neovas-huvudkontor-i-finland-nedsprutat-av-aaterstall-vatmarker), [yle.fi](https://yle.fi/a/74-20244369). Se även [denna inspelning](https://www.facebook.com/reel/2300453144039813/) där jag syns bra och förklarar mig lite snabbt. 
+[Här är pressmeddelandet som Återställ Våtmarker skickade ut.](https://aterstallvatmarker.se/press/neovas-huvudkontor-i-finland-nedsprutat-av-aaterstall-vatmarker). Om aktionen rapporterades av olika nyhetsbyråer i Finland: [nyhetssökning](https://www-ampparit-com.translate.goog/haku?q=neova&_x_tr_sl=fi&_x_tr_tl=sv&_x_tr_hl=sv&_x_tr_pto=wapp), [yle.fi](https://yle.fi/a/74-20244369). Se även [denna inspelning](https://www.facebook.com/reel/2300453144039813/) där jag syns bra och förklarar mig lite snabbt. 
 
 <details>
 <summary>Klicka här för att läsa en sammanfattning av pressreleasen.</summary>
