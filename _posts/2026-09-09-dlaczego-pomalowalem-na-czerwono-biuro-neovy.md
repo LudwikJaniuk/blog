@@ -7,11 +7,11 @@ layout: default
 
 # Dlaczego zesprejowałem biuro Neovy 
 
-Rozumiem, że wiele osób mocno zareagowało na to, że w zeszłym tygodniu [zesprejowałem biuro firmy Neova w Finlandii](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor-pl.html). Jeśli byłeś/byłaś jednym lub jedną z nich, to proszę cię abyś przeczytał ten tekst, ze względu na to że znasz mnie i wiesz że nie jestem skory do przemocy.
+Rozumiem, że wiele osób mocno zareagowało na to, że w zeszłym tygodniu [zesprejowałem biuro firmy Neova w Finlandii](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor-pl.html). Jeśli jesteś jedną z nich, to proszę abyś przeczytał ten tekst, ze względu na to że znasz mnie i wiesz że nie jestem skory do przemocy.
 
 Nie będe się starał zmienić twoich emocji, bo masz prawo czuć co czujesz. Może jest to obrzydzenie, może strach albo troska, może złość, może niezrozumienie, a może nawet wstyd że twój krewny/przyjaciel „zrobił coś takiego” i „siedział w areszcie”. 
 
-Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w jakiś stereotyp „przestępcy” w głowie, bo to by było nie fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubię czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
+Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w stereotyp „przestępcy” w głowie, bo to by nie było fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubię czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
 
 ![Wyciągam gaśnicę z wózka](/assets/images/neova-jyvaskyla-pre1.jpg)
 ![Czekam na sygnał](/assets/images/neova-jyvaskyla-pre2.jpg)
@@ -19,7 +19,7 @@ Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszyc
 
 Nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy ma prawo do spokoju, do swojej własności. Można mieć różne opinie albo pracować na szczytne cele, ale musimy się szanować oraz szanować prawa które ustanowiliśmy razem w społeczeństwie. Ja zgadzam się z tym.
 
-Właśnie w obronie takich zasad zesprejowałem ten budynek. Zrobiłem to żeby zatrzymać i ograniczyć dziejącą się w tej chwili przemoc. Neova jako firma od paliw kopalnianych w pełnej świadomości dokłada się do niszczenia warunków życia na ziemi. Napędzają bezpowrotne ocieplanie planety. Takie firmy na dodatek kłamią że tak nie jest, i spychają odpowiedzialność na zwykłych ludzi. To co zrobiłem to akt samoobrony. **To akt obrony życia siebie i innych w gwałtownym zagrożeniu.** 
+Właśnie w obronie takich zasad zesprejowałem ten budynek. Zrobiłem to żeby zatrzymać i ograniczyć dziejącą się w tej chwili przemoc. Neova jako firma od paliw kopalnianych w pełnej świadomości dokłada się do niszczenia warunków życia na ziemi. Napędzają bezpowrotne ocieplanie planety. **To co zrobiłem to akt samoobrony. To akt obrony życia siebie i innych w gwałtownym zagrożeniu.** 
 
 I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat tłumaczę powagę ocieplenia ziemi. Jeśli słuchałeś i sam zadałeś sobię trud żeby sobię uświadomić co się dzieje, to powinieneś być w stanie zrozumieć moje postępowanie, nawet jeśli sam byś tak nie postąpił. Jednak wielu z was nie zadało sobie takiego trudu. Dalsza część tego tekstu to krótkie streszczenie rzeczy które mowiłem już wiele razy. 
 
