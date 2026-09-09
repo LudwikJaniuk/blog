@@ -14,8 +14,8 @@ Nie będe się starał zmienić twoich emocji, bo masz prawo czuć co czujesz. M
 Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w jakiś stereotyp „przestępcy” w głowie, bo to by było nie fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubi czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
 
 ![Wyciągam gaśnicę z wózka](/assets/images/neova-jyvaskyla-pre1.jpg)
-![Czekam na sygnał](/assets/images/neova-jyvaskyla-pre1.jpg)
-![Wypuszczam farbę z gaśnicy](/assets/images/neova-jyvaskyla-pre1.jpg)
+![Czekam na sygnał](/assets/images/neova-jyvaskyla-pre2.jpg)
+![Wypuszczam farbę z gaśnicy](/assets/images/neova-jyvaskyla-pre3.jpg)
 
 Nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy ma prawo do spokoju, do swojej własności. Można mieć różne opinie albo pracować na szczytne cele, ale musimy się szanować oraz szanować prawa które ustanowiliśmy razem w społeczeństwie. Ja zgadzam się z tym.
 
