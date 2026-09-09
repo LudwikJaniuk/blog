@@ -15,19 +15,21 @@ Bo przecież nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy
 
 Dochodzi do tego aspekt przemocy. Firmy od paliw kopalnianych, takie jak Neova, w pełnej świadomości dokładają się do niszczenia warunków życia na ziemi. Napędzają bezpowrotne ocieplanie planety. A na dodatek kłamią że tak nie jest, i spychają odpowiedzialność na zwykłych ludzi. **To co zrobiłem to samoobrona i akt obrony życia innych w gwałtownym zagrożeniu.**
 
-I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat star wytłumaczyć powagę sytuacji ocieplenia ziemi. Jeśli słuchałeś i sam zadałeś sobię trud żeby sobię uświadomić co się dzieje, to powinieneś być w stanie zrozumieć moje postępowanie, nawet jeśli sam byś tak nie postąpił. Jednak wiem że wielu z was nie zadało sobie takiego trudu. Dalsza część tego tekstu to krótkie streszczenie rzeczy które mowiłem już wiele razy. A mianowicie:
+I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat tłumaczę powagę ocieplenia ziemi. Jeśli słuchałeś i sam zadałeś sobię trud żeby sobię uświadomić co się dzieje, to powinieneś być w stanie zrozumieć moje postępowanie, nawet jeśli sam byś tak nie postąpił. Jednak wielu z was nie zadało sobie takiego trudu. Dalsza część tego tekstu to krótkie streszczenie rzeczy które mowiłem już wiele razy. 
 
-W ocieplaniu ziemi na prawdę chodzi o przemoc. Przemoc ma różne postacie. Jeśli ktoś cię pobije, to przemoc. Jeśli ktoś zatruje ci studnię, a nie masz innej i wobez tego umrzesz z pragnienia, to też jest przemoc. 
+Ocieplanie ziemi to kwestia przemocy. Przemoc ma różne postacie: Jeśli ktoś cię pobije, to przemoc, a jeśli ktoś zatruje ci studnie i wobez tego umrzesz z pragnienia, to też jest przemoc. 
 
-Sprawdź ile ludzi zgineło w tegorocznych upałach w samej Europie. Spójrz na ludzi w Nepalu uciekających od gwałtownej powodzi, którą wywołało zapadnięcie się glacjery. Czy już zapomniałeś/aś o pożarach które powlokły Szwecję w roku 2018 (kiedy to Polska musiała wysłać strażaków do pomocy), Australię w 2019-2020, Kalifornię w 2025? O powodziach w południowej Polsce i na czechach dwa lata temu, kiedy kompletnie przestały jeździć pociągi?
+Sprawdź ile ludzi zgineło w tegorocznych upałach w samej Europie. Spójrz na ludzi w Nepalu uciekających od gwałtownej powodzi, którą wywołało zapadnięcie się glacjery. Czy już zapomniałeś/aś o pożarach które powlokły Szwecję w roku 2018 (kiedy to Polska musiała wysłać strażaków do pomocy), Australię w 2019-2020, Kalifornię w 2025? O powodziach w południowej Polsce i na Czechach dwa lata temu, kiedy kompletnie przestały jeździć pociągi?
 
-Robi się na ziemi coraz cieplej. To fakt, nie opinia. Skutkiem tego będzie coraz więcej katastrof, będą bardziej gwałtowne, częstsze, dłuższe w trwaniu, i oczywiście będą zgarniać coraz więcej ofiar i niszczyć mienia. To nie jest przypadek ani wola Boża, tylko resultat czynów ludzkich. Krew ofiar na rękach firm takich jak Neova, lub Orlen, Shell, BP. A najgorsze jest to że nie mówimy o jednorazowym akcie przemocy, tylko o przemocy trwającej tu i teraz, nabierającej jeszcze na sile. 
+Robi się na ziemi coraz cieplej. To fakt, nie opinia. Skutkiem tego będzie coraz więcej katastrof, będą bardziej gwałtowne, częstsze, dłuższe w trwaniu, i oczywiście będą zgarniać coraz więcej ofiar i niszczyć mienia. Do dramatycznuch przykładów należy dodać cichą śmierć taką ja susza, zasolenie się ziem uprawnych na deltach, niewydolność rybactwa skutkiem zakwaszenia wód. 
 
-Ja czuję przerażenie gdy myślę o przyszłości. Bezdenny strach, zgrozę, bo nieunikniona zagłąda na nas czeka. Każdy rok cieplejszy od poprzedniego. Ziemia która już nie daje plonów jak wcześniej. Wysychające rzeki.
+To wszystko nie jest przypadek ani wola Boża, tylko resultat czynów ludzkich. Krew ofiar na rękach firm takich jak Neova, lub Orlen, Shell, BP. A najgorsze jest to że nie mówimy o jednorazowym akcie przemocy, tylko o przemocy trwającej tu i teraz, nabierającej jeszcze na sile. 
 
-Ja czuję samotność i izolację gdy tylu moich bliskich odwraca twarz, zatyka uszy, zmienia temat na coś lżejszego, wylicza litanię wymówek. Gdy mnie uciszacie, gdy dajecie do zrozumienia że „nie w tej chwili”. Albo gdy słuchacie, wzdychacie, ale nie doprowadza to do żadnych kompletnie zmian w waszych życiach. 
+Ja czuję przerażenie gdy myślę o przyszłości. Bezdenny strach, zgrozę, bo nieunikniona zagłąda każdego roku zbiera coraz więcej żyć. Każdy rok cieplejszy od poprzedniego. Ziemia która już nie daje plonów jak wcześniej. Wysychające rzeki.
 
-Ale nie czuję paraliżu. Robię co mogę, a przyszłość zależy od nas wszystkich razem wziętych. Być może Bóg da, że w końcu zawalczymy razem o swoje życia. Tymczasem jestem dumny, że zesprejowałem farbą biuro firmy Neova w Jyväskylä, w Finlandii.
+Ja czuję samotność i izolację gdy tylu moich bliskich odwraca twarz, zatyka uszy, zmienia temat na coś lżejszego, wylicza litanię wymówek. Gdy mnie uciszacie, gdy dajecie do zrozumienia że „nie w tej chwili”. Albo gdy słuchacie, wzdychacie, ale nie doprowadza to do żadnych zmian w waszych życiach. 
+
+Ale nie czuję paraliżu. Robię co mogę, i nie jestem sam, a przyszłość zależy od nas wszystkich razem wziętych. Być może Bóg da, że w końcu zawalczymy razem o swoje życia. Tak jak powtarzam, jestem zawsze otwarty na rozmowę, wystarczy zadzwonić. Tymczasem jestem dumny, że zesprejowałem farbą biuro firmy Neova w Jyväskylä, w Finlandii.
 
 A nawiasem mówiąc, była to farba rozpuszczalna w wodzie.
 
