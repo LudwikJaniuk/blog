@@ -11,7 +11,7 @@ Nie będe się starał zmienić twoich emocji, bo masz prawo czuć co czujesz. M
 
 Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w jakiś stereotyp „przestępcy” w głowie, bo to by było nie fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubi czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
 
-Bo przecież nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy ma prawo do spokoju, do swojej własności. Można mieć różne opinie albo pracować na szczytne cele, ale musimy się szanować oraz szanować prawa które ustanowiliśmy razem w społeczeństwie. Ja zgadzam się z tym.
+Nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy ma prawo do spokoju, do swojej własności. Można mieć różne opinie albo pracować na szczytne cele, ale musimy się szanować oraz szanować prawa które ustanowiliśmy razem w społeczeństwie. Ja zgadzam się z tym.
 
 Dochodzi do tego aspekt przemocy. Firmy od paliw kopalnianych, takie jak Neova, w pełnej świadomości dokładają się do niszczenia warunków życia na ziemi. Napędzają bezpowrotne ocieplanie planety. A na dodatek kłamią że tak nie jest, i spychają odpowiedzialność na zwykłych ludzi. **To co zrobiłem to samoobrona i akt obrony życia innych w gwałtownym zagrożeniu.**
 
