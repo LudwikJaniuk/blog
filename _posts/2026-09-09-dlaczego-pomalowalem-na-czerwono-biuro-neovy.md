@@ -11,7 +11,7 @@ Rozumiem, że wiele osób mocno zareagowało na to, że w zeszłym tygodniu [zes
 
 Nie będe się starał zmienić twoich emocji, bo masz prawo czuć co czujesz. Może jest to obrzydzenie, może strach albo troska, może złość, może niezrozumienie, a może nawet wstyd że twój krewny/przyjaciel „zrobił coś takiego” i „siedział w areszcie”. 
 
-Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w jakiś stereotyp „przestępcy” w głowie, bo to by było nie fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubi czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
+Chcę ci przypomnieć że jestem wciąż sobą. Nie zapomnij o wszystkich naszych wspomnieniach i rozmowach. Czuj co czujesz, ale nie popełnij takiego błędu żeby wsadzić mnie w jakiś stereotyp „przestępcy” w głowie, bo to by było nie fair. Wciąż jestem taki sam Ludwik - cierpliwy, zapominalski, lubię czytać, chętny do pomocy. Więc jak taki Ludwik mógł zrobić coś takiego?
 
 ![Wyciągam gaśnicę z wózka](/assets/images/neova-jyvaskyla-pre1.jpg)
 ![Czekam na sygnał](/assets/images/neova-jyvaskyla-pre2.jpg)
