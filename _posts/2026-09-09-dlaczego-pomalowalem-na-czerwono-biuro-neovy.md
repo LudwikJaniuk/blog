@@ -5,6 +5,8 @@ tags: polski
 layout: default
 ---
 
+# Jeżeli nie rozumiesz, dlaczego zesprejowałem biuro Neovy 
+
 Rozumiem, że wiele osób mocno zareagowało na to, że w zeszłym tygodniu [zesprejowałem biuro firmy Neova w Finlandii](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor-pl.html). Jeśli byłeś/byłaś jednym lub jedną z nich, to proszę cię abyś przeczytał ten tekst, ze względu na to że znasz mnie i wiesz że nie jestem skory do przemocy.
 
 Nie będe się starał zmienić twoich emocji, bo masz prawo czuć co czujesz. Może jest to obrzydzenie, może strach albo troska, może złość, może niezrozumienie, a może nawet wstyd że twój krewny/przyjaciel „zrobił coś takiego” i „siedział w areszcie”. 
