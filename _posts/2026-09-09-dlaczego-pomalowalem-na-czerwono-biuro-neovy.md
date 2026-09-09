@@ -21,7 +21,7 @@ I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat tłumaczę powagę
 
 Ocieplanie ziemi to kwestia przemocy. Przemoc ma różne postacie: Jeśli ktoś cię pobije, to przemoc, a jeśli ktoś zatruje ci studnie i wobez tego umrzesz z pragnienia, to też jest przemoc. 
 
-Sprawdź [ile ludzi zgineło w tegorocznych upałach w samej Europie](https://pl.wikipedia.org/wiki/Upa%C5%82y_w_Europie_w_2026_roku#Ofiary). Spójrz na [ludzi w Nepalu uciekających od gwałtownej powodzi](https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/), którą wywołało zapadnięcie się glacjery. Czy już zapomniałeś/aś o pożarach które powlokły Szwecję w roku 2018 (kiedy to Polska musiała wysłać strażaków do pomocy), Australię w 2019-2020, Kalifornię w 2025? O powodziach w południowej Polsce i na Czechach dwa lata temu, kiedy kompletnie przestały jeździć pociągi?
+Sprawdź [ile ludzi zgineło w tegorocznych upałach w samej Europie](https://pl.wikipedia.org/wiki/Upa%C5%82y_w_Europie_w_2026_roku#Ofiary). Spójrz na [ludzi w Nepalu uciekających od gwałtownej powodzi](https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/), którą wywołało zapadnięcie się glacjery. Czy już zapomniałeś/aś o pożarach które powlokły Szwecję w roku 2018 (kiedy to Polska musiała wysłać strażaków do pomocy), Australię w 2019-2020, Kalifornię w 2025? O powodziach w południowej Polsce i na Czechach dwa lata temu, kiedy kompletnie przestały jeździć pociągi? Ja tak właściwie nie powinienem musieć już nic mówić. W latach 80’tych zmiany klimatyczne były oddaloną możliwością, teraz są namacalne, a to i tak tylko sam początek.
 
 ![Gwałtowna podódź na granicy Nepalu i Chin](/assets/images/nepal-flood.png)
 
