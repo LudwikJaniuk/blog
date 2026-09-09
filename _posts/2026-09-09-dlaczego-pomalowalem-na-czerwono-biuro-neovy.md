@@ -21,7 +21,7 @@ Nikt nie chce żeby ktoś psuł czegoś co należy do niego. Każdy ma prawo do 
 
 Właśnie w obronie takich zasad zesprejowałem ten budynek. Zrobiłem to żeby zatrzymać i ograniczyć dziejącą się w tej chwili przemoc. Neova jako firma od paliw kopalnianych w pełnej świadomości dokłada się do niszczenia warunków życia na ziemi. Napędzają bezpowrotne ocieplanie planety. **To co zrobiłem to akt samoobrony. To akt obrony życia siebie i innych w gwałtownym zagrożeniu.** 
 
-I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat tłumaczę powagę ocieplenia ziemi. Jeśli słuchałeś i sam zadałeś sobię trud żeby sobię uświadomić co się dzieje, to powinieneś być w stanie zrozumieć moje postępowanie, nawet jeśli sam byś tak nie postąpił. Jednak wielu z was nie zadało sobie takiego trudu. Dalsza część tego tekstu to krótkie streszczenie rzeczy które mowiłem już wiele razy. 
+I tak właściwie wystarczy. Nie musisz czytać dalej. Od lat tłumaczę powagę ocieplenia ziemi. Jeśli słuchałeś i sam zadałeś sobię trud żeby sobię uświadomić co się dzieje, to powinieneś być w stanie zrozumieć moje postępowanie, nawet jeśli sam byś tak nie postąpił. Dalsza część tego tekstu to krótkie streszczenie rzeczy które mowiłem już wiele razy. 
 
 Ocieplanie ziemi to kwestia przemocy. Przemoc ma różne postacie: Jeśli ktoś cię pobije, to przemoc, a jeśli ktoś zatruje ci studnie i wobez tego umrzesz z pragnienia, to też jest przemoc. 
 
