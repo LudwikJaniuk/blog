@@ -23,6 +23,8 @@ Ocieplanie ziemi to kwestia przemocy. Przemoc ma różne postacie: Jeśli ktoś 
 
 Sprawdź [ile ludzi zgineło w tegorocznych upałach w samej Europie](https://pl.wikipedia.org/wiki/Upa%C5%82y_w_Europie_w_2026_roku#Ofiary). Spójrz na [ludzi w Nepalu uciekających od gwałtownej powodzi](https://www.reuters.com/graphics/NEPAL-FLOODS/MAP/byvrdywwlve/), którą wywołało zapadnięcie się glacjery. Czy już zapomniałeś/aś o pożarach które powlokły Szwecję w roku 2018 (kiedy to Polska musiała wysłać strażaków do pomocy), Australię w 2019-2020, Kalifornię w 2025? O powodziach w południowej Polsce i na Czechach dwa lata temu, kiedy kompletnie przestały jeździć pociągi?
 
+![Gwałtowna podódź na granicy Nepalu i Chin](/assets/images/nepal-flood.png)
+
 Robi się na ziemi coraz cieplej. To fakt, nie opinia. Skutkiem tego będzie coraz więcej katastrof, będą bardziej gwałtowne, częstsze, dłuższe w trwaniu, i oczywiście będą zgarniać coraz więcej ofiar i niszczyć mienia. Do dramatycznuch przykładów należy dodać cichą śmierć taką ja susza, zasolenie się ziem uprawnych na deltach, niewydolność rybactwa skutkiem zakwaszenia wód. 
 
 To wszystko nie jest przypadek ani wola Boża, tylko resultat czynów ludzkich. Krew ofiar na rękach firm takich jak Neova, lub Orlen, Shell, BP. A najgorsze jest to że nie mówimy o jednorazowym akcie przemocy, tylko o przemocy trwającej tu i teraz, nabierającej jeszcze na sile. 
@@ -37,4 +39,3 @@ A nawiasem mówiąc, była to farba rozpuszczalna w wodzie.
 
 
 
-![](/assets/images/xxx.jpeg)
