@@ -7,7 +7,7 @@ layout: default
 
 # Varför jag sprayade Neovas kontor
 
-Min familj har reagerat starkt på min sprayning av Neovas kontor i Finland förra veckan (https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor.html). Om du är en nära person till mig och också känner starka känslor, var snäll och läs denna text, för du känner ju mig, och du vet att jag inte är benägen till våld.
+Många i min familj har reagerat starkt på min [sprayning av Neovas kontor i Finland förra veckan](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor.html). Om du är en nära person till mig och också känner starka känslor, var snäll och läs denna text, för du känner ju mig, och du vet att jag inte är benägen till våld.
 
 Jag kommer inte att försöka ändra dina känslor, för du har rätt att känna vad du än känner. Kanske är det avsky, kanske rädsla eller oro, kanske ilska, kanske oförstående, eller kanske till och med skam över att din släkting/vän "gjorde något sådant" och "blev tagen av polisen".
 
