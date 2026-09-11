@@ -7,7 +7,7 @@ layout: default
 
 # Why I spray-painted Neova's office
 
-I understand that many people reacted strongly when [I spray-painted Neova's office in Finland](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor-en.html) last week. If you are one of them, I ask you to read this text, since you probably know me and know that I'm actually not prone to violence at all.
+Many close people to me reacted strongly when [I spray-painted Neova's office in Finland](https://blog.janiuk.se/2026/09/05/jag-har-sprayat-ner-neovas-kontor-en.html) last week. If you are one of them, I ask you to read this text, since you probably know me and know that I'm actually not prone to violence at all.
 
 I won't try to change your emotions, because you have the right to feel what you feel. It might be disgust, fear, concern, or anger, confusion, even perhaps shame that your relative or friend "did something like that" and "spent time in custody."
 
@@ -39,4 +39,4 @@ I feel loneliness and isolation when so many of my loved ones turn away, cover t
 
 But I do not feel paralyzed. I am doing what I can, and I am not alone. The future depends on the sum of all of our actions. Perhaps, God willing, we will at some point all fight for our lives together. As I keep saying, I am always open to a conversation — all you have to do is call. In the meantime, I am proud to have spray-painted the Neova office in Jyväskylä, Finland.
 
-And by the way, the paint was water-soluble.
+And by the way, the paint was water-soluble. The rain came the same afternoon.
