@@ -16,7 +16,7 @@ Man vill ju gärna tänka att det kommer varmare och kallare år, att det där g
 
 Vi är vana vid att tänka på naturen som något oändligt och obevekligt. "Det är bara Gud som bestämmer vädret", sa en släkting till mig. Men vi vet att anledningen till att det fortsätter bli varmare är mänsklig aktivitet. Vi bränner upp olja som vi har borrat upp ur marken. Koldioxiden som släpps loss är inte giftig, men vi släpper ut så otroligt stora mängder att vi förändrar atmosfärens sammansättning. Den samlar då upp mer värme från solen än den tidigare gjort, och skapar sakta men säkert ett klimat som vi och våra samhällen inte är anpassade till. Ju mer olja vi bränner desto starkare blir den här effekten - jorden tar upp ännu mer värme.
 [NASA](https://science.nasa.gov/climate-change/causes/)
-[Amerikanske Vetenskapsakademin](https://www.nationalacademies.org/based-on-science/climate-change-humans-are-causing-global-warming)
+[Amerikanska Vetenskapsakademin](https://www.nationalacademies.org/based-on-science/climate-change-humans-are-causing-global-warming)
 
 Det finns fysiska gränser för vad en människa klarar av. Vår kroppstemperatur måste hålla sig på 37 grader. Vi kan kyla av oss genom att svettas, men om det är för varmt räcker det inte till. Det kan vara så varmt att man inte överlever ens i skuggan. En sån värmebölja - det har vi aldrig upplevt i Sverige. Men de händer redan på olika platser i världen, till exempel i Indien, Mellanöstern och Afrika, dem blir vanligare och stannar längre. Då går det faktiskt inte att bo på en plats. Vart ska människor ta vägen? Och vem ska hjälpa dem förflytta sig, vem kommer ta emot dem?
 [science.org](https://www.science.org/doi/10.1126/sciadv.aaw1838)
