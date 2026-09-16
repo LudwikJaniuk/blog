@@ -9,7 +9,7 @@ Vad är det du pratar om?
 Alla som träffat mig har nog märkt att jag återkommer till klimatkrisen. Jag tar upp den, jag försöker utbilda om den, jag har många känslor kopplade till den. Men vad är grejen då? Vi tar det från början och i grova penseldrag, för det verkar som att många skulle behöva en sammanfattning. 
 
 Det är varmare på jorden nu än det var när jag var barn. Det är varmare i Sverige. Vi har mindre snö på vintrarna, vintern kommer mycket senare. Somrarna är varmare, och det glädjer vi oss åt tills torkan resulterar i skogsbränder och dåliga skördar.
-[SMHI](https://www.smhi.se/kunskapsbanken/klimat/sveriges-klimat/temperaturens-okning-i-sverige-sedan-1800-talet-1.158913)
+[SMHI](https://www.smhi.se/kunskapsbanken/klimat/sveriges-klimat/)
 
 Man vill ju gärna tänka att det kommer varmare och kallare år, att det där går i cykler. Men så är inte fallet - tar man medeltemperaturen för hela klotet så fortsätter den bara att stiga, år för år, och vi vet att den kommer fortsätta stiga också. När är det för varmt?
 [Wikipedia](https://en.wikipedia.org/wiki/Global_surface_temperature)
