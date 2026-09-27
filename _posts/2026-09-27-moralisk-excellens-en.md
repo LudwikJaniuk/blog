@@ -20,3 +20,5 @@ There is also a chapter titled "Too Good for One's Own Good," in which the autho
 And how does it work morally when, on the one hand, I want to do as much good as possible, yet on the other, I prioritize my family—despite claiming that everyone is of equal worth? Does this imply that there is no such thing as morality, only selfishness? Or can the two be reconciled?
 
 The author looks at these questions from many, often surprising angles. It gave me a lot of food for thought. I recommend the book.
+
+On another note, I’ve had an intense summer. I’m in a state of mind where I feel a lot is happening internally—yet again—and for that very reason, I’m finding it hard to write about it. But perhaps that will pass soon.
