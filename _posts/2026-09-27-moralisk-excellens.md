@@ -7,7 +7,7 @@ layout: default
 
 # Bokrapport: Moralisk excellens - om att överträffa plikten (Mats J. Hansson)
 
-![](/assets/images/xxx.jpeg)
+![bokomslag](/assets/images/moralisk-excellens.jpeg)
 
 Stadsbiblioteket i Lund är en ström av inspiration och kunskap för mig. Jag vet inte vem som jobbar där som ständigt lyckas plocka fram böcker som känns så skräddarsydda. Jag plockade upp den här för att den fick mig att tänka på vissa interaktioner jag haft som klimataktivist. "Tack för att ni gör det här, var modiga ni är" - "Men kom och hjälp oss då, du med" - tystnad. Vad kan jag egentligen förvänta mig av andra? 
 
