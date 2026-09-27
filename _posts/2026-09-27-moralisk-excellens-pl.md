@@ -1,11 +1,11 @@
 ---
-title: "Wybitność moralna - o przekraczaniu obowiązku (Mats J. Hansson)"
+title: "Raport książkowy: Wybitność moralna - o przekraczaniu obowiązku (Mats J. Hansson)"
 date: 2026-09-27
 tags: polski
 layout: default
 ---
 
-# Wybitność moralna - o przekraczaniu obowiązku (Mats J. Hansson)
+# Raport książkowy: Wybitność moralna - o przekraczaniu obowiązku (Mats J. Hansson)
 
 ![okładka](/assets/images/moralisk-excellens.jpeg)
 
