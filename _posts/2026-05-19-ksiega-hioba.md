@@ -24,19 +24,19 @@ Co powinien czynić człowiek prawy? Hiob nie wie. Po rozprawach Elifaza, Bildad
 
 Pan w końcu „odzywa się do Hioba wśród burzy”. Wypowiedź Pana jest kompletnie inna niż wszystko co było dotąd powiedziane. O ile poprzedni mówcy rozumują, Pan zwraca uwagę na to co jest. „Gdzie byłeś kiedy zakładałem ziemię, powiedz jeśli potrafisz?” Przez cztery długie rozdziały Bóg wylicza Hiobowi różnorodnośc i piękno świata który stworzył, i poprzez każdy element stworzenia przypomina o Swojej wielkości. Bóg pyta o poranną zorzę, o źródła morza, i bramy krainy śmierci. Pyta o spichlerze śniegu, grzmiące chmury, deszcz, krople rosy, i lód. O lwicę i o górskie kozice, o poród łani i o dzikiego osła. Bóg opisuję swoje stworzenie z przejmującym zamiłowaniem i w najdrobniejszych szczegółach. Na przykład:
 
-> „Czy to ty dałeś rumakowi siłę,
-a jego kark okryłeś grzywą? 
-Czy to ty sprawiłeś że skacze jak szarańcza, a jego głośne rżenie budzi trwogę?
-Rozbija kopytami twardą ziemię,
-cieszy się swą siłą i pędzi do boju.
-Wyszydza lęk, niczego się nie boi,
-nie cofa się przed mieczem.
-Kołczan pobrzękuje na nim,
-błyszczy włócznia i oszczep.
-Drzy z podniecenia, liże ziemię,
-gdy trąba daje sygnał, nie da się powstrzymać.
-Kiedy rozbrzmiewa trąba, rży ”Iha! iha! iha!„
-Z daleka wyczuwa bitwę,
+> „Czy to ty dałeś rumakowi siłę,<br>
+a jego kark okryłeś grzywą? <br>
+Czy to ty sprawiłeś że skacze jak szarańcza, a jego głośne rżenie budzi trwogę?<br>
+Rozbija kopytami twardą ziemię,<br>
+cieszy się swą siłą i pędzi do boju<br>.
+Wyszydza lęk, niczego się nie boi,<br>
+nie cofa się przed mieczem.<br>
+Kołczan pobrzękuje na nim,<br>
+błyszczy włócznia i oszczep.<br>
+Drzy z podniecenia, liże ziemię,<br>
+gdy trąba daje sygnał, nie da się powstrzymać.<br>
+Kiedy rozbrzmiewa trąba, rży ”Iha! iha! iha!„<br>
+Z daleka wyczuwa bitwę,<br>
 krzyk książąt, wrzawę walczących.” 
 
 ![Rumak](/assets/images/rumak.jpg)

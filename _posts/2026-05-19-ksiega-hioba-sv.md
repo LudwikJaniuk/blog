@@ -11,13 +11,13 @@ layout: default
 
 Så börjar Jobs bok, en bibeltext full av känslor, paradoxer och långa tal. Den är en reflektion över det onda som de rättfärdiga upplever. Är lidande ett straff för synd? Om inte, är det en konsekvens av våra handlingar?
 
-Jag passerar en hemlös och en del av mig tänker: "Vilken tur att det där inte skulle kunna hända mig." Det är en betryggande lögn jag intalar mig. I verkligheten kan det hända vem som helst! Livet bjuder oss obland att möta vår egen maktlöshet och dödlighet. Oviljan att följa denna sanning ger upphov till oändliga, meningslösa tankegångar och arbete. Trots hans rättfärdighet, påträffar Job stort lidande, och det överväldigar honom. Job förstår inte vad som händer. Han börjar allvarligt ifrågasätta sin bild av verkligheten, såväl som sin bild av Gud.
+Jag passerar en hemlös och en del av mig tänker: "Vilken tur att det där inte skulle kunna hända mig." Det är en betryggande lögn jag intalar mig. I verkligheten kan det hända vem som helst! Livet bjuder oss ibland att möta vår egen maktlöshet och dödlighet. Oviljan att följa denna sanning ger upphov till ändlösa tankegångar och en massa meningslös ansträngning. Trots hans rättfärdighet, påträffar Job stort lidande, och det överväldigar honom. Job förstår inte vad som händer. Han börjar allvarligt ifrågasätta sin bild av verkligheten, såväl som sin bild av Gud.
 
 ![Gammal ubåtshiss i Malmö](/assets/images/winda.jpg)
 
-Job har tre vänner: Elifas, Bildad och Sofar. De kommer när de hör talas om Jobs lidande och sitter tysta med honom länge, "för de vet att hans smärta är stor." Men när Job äntligen uttrycker sitt lidande, då kan de inte hålla sig: "Åh, du måste ha syndat, annars skulle Gud inte ha straffat dig så här. Erkänn det!" – ungefär så håller de på, från kapitel 4 till 31 (!) i den här boken.
+Job har tre vänner: Elifas, Bildad och Sofar. De kommer när de hör talas om Jobs lidande och sitter tysta med honom länge, "för de vet att hans smärta är stor." Men när Job äntligen uttrycker sitt lidande, då kan de inte hålla sig: "Åh, du måste ha syndat, annars skulle Gud inte ha straffat dig så här. Erkänn det!" – ungefär så håller de på, från kapitel 4 till 31 (!).
 
-Job verkar för mig vara en nagel i ögat på sitt samhälle. Hans öde krossar tanken att allt kommer att bli bra om vi bara försöker. Det krossar löftet om en vacker framtid. Elifas, Bildad och Sofar klarar inte av detta, de öser ur sig en lång ström av desperata förklaringar.
+**Job verkar för mig vara en nagel i ögat på sitt samhälle**. Hans öde krossar tanken att allt kommer att bli bra om vi bara försöker. Det krossar löftet om en vacker framtid. Elifas, Bildad och Sofar klarar inte av detta, de öser ur sig en lång ström av desperata förklaringar.
 
 Medan jag läste kände jag samhörighet med Job. Även jag uttrycker ju bräckligheten i vårt sätt att leva. Det finns inte tillräckligt med fossila bränslen på jorden för att driva samhällenas eviga tillväxt. Inte heller finns det tillräckligt med metaller för att ersätta all denna energi med "grön energi". Följaktligen närmar sig slutet på civilisationen i det tillstånd vi känner till den. Detta har skrämt mig, tvingat mig att agera; ingenting verkar viktigare för mig.
 
