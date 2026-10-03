@@ -1,4 +1,3 @@
-
 ---
 title: "Bokrapport: Practicing Social Ecology - from Bookchin to Rojava and Beyond (Eleanor Finley)"
 date: 2026-10-03
@@ -6,18 +5,19 @@ tags: svenska
 layout: default
 ---
 
-![Bokens omslag](/assets/images/practicing-social-ecology.jpeg)
 
+# Bokrapport: Practicing Social Ecology - from Bookchin to Rojava and Beyond (Eleanor Finley)
 
-Bokrapport: Practicing Social Ecology - from Bookchin to Rojava and Beyond (Eleanor Finley)
 
 En bok till! Jag har blivit stammis på mina lokala bibliotek, de fortsätter att överraska mig med underbara gåvor. Just den här hittade jag på Solidaritshuset på Södermalm, en plats där flera människorättsorganisationer arbetar, bland annat med anknytning till Sydamerika. Jag var där med en vän på en Peruansk matfestival.
+
+![Bokens omslag](/assets/images/practicing-social-ecology.jpeg)
 
 I somras frågade en Miljöpartist mig "hur skulle du vilja organisera samhället?". Jag tolkade det som att han tyckte att det vi har, parlamentär demokrati, är det bästa möjliga. Tja, kanske finns några skisser på svar i den här boken. Murray Bookchin definierade viss "social ekologi" som "övertygelsen att nästan alla våra pågående ekologiska problem härstammar från djuprotade sociala problem." Han står för en vision om att göra sig av med alla hierarkier och dominansstrukturer. Vad som är tydligt är att det nuvarande systemet inte klarar av att hantera större strukturella problem. Små reformer, visst, men inte mer än så.
 
 Hur som helst är boken inte en djupstudie i Bookchin. Den tar avstamp i honom, men författaren gör en exkursion bland traditioner, alternativa system, och pågående kamper idag där människor organiserar sig på alternativa sätt, gör motstånd, skyddar sina gemenskaper, och samtidigt växer i medskapande. Jag vill uppmärksamma några koncept och insikter som stannade med mig. 
 
-Heval och Tekmil
+# Heval och Tekmil
 
 Jag önskar att fler människor tog en aktiv roll i att forma framtiden för sina samhällen. Samtidigt är det nog så att vi ofta saknar färdigheter för det. Om man ska samsas och ta beslut tillsammans, då krävs faktiskt ett mått av mogenhet. Man måste kunna kompromissa, försöka se saker från andras perspektiv, vara flexibel nog att anpassa sig till andra sätt att arbeta. Man måste också till exempel förmå att känna efter vad man själv behöver, och ha modet och förmågan att yttra det. Man behöver kunna se andras bidrag. Bygga relationer. Och säkert mycket mer. 
 
