@@ -11,7 +11,7 @@ layout: default
 
 En bok till! Jag har blivit stammis på mina lokala bibliotek, de fortsätter att överraska mig med underbara gåvor. Just den här hittade jag på Solidaritshuset på Södermalm, en plats där flera människorättsorganisationer arbetar, bland annat med anknytning till Sydamerika. Jag var där med en vän på en Peruansk matfestival.
 
-![Bokens omslag](/assets/images/practicing-social-ecology.jpeg)
+![Bokens omslag](/assets/images/practicing-social-ecology.jpg)
 
 I somras frågade en Miljöpartist mig "hur skulle du vilja organisera samhället?". Jag tolkade det som att han tyckte att det vi har, parlamentär demokrati, är det bästa möjliga. Tja, kanske finns några skisser på svar i den här boken. Murray Bookchin definierade viss "social ekologi" som "övertygelsen att nästan alla våra pågående ekologiska problem härstammar från djuprotade sociala problem." Han står för en vision om att göra sig av med alla hierarkier och dominansstrukturer. Vad som är tydligt är att det nuvarande systemet inte klarar av att hantera större strukturella problem. Små reformer, visst, men inte mer än så.
 
