@@ -17,7 +17,7 @@ I somras frågade en Miljöpartist mig "hur skulle du vilja organisera samhälle
 
 Hur som helst är boken inte en djupstudie i Bookchin. Den tar avstamp i honom, men författaren gör en exkursion bland traditioner, alternativa system, och pågående kamper idag där människor organiserar sig på alternativa sätt, gör motstånd, skyddar sina gemenskaper, och samtidigt växer i medskapande. Jag vill uppmärksamma några koncept och insikter som stannade med mig. 
 
-# Heval och Tekmil
+# Förarbetet för direktdemokrati
 
 Jag önskar att fler människor tog en aktiv roll i att forma framtiden för sina samhällen. Samtidigt är det nog så att vi ofta saknar färdigheter för det. Om man ska samsas och ta beslut tillsammans, då krävs faktiskt ett mått av mogenhet. Man måste kunna kompromissa, försöka se saker från andras perspektiv, vara flexibel nog att anpassa sig till andra sätt att arbeta. Man måste också till exempel förmå att känna efter vad man själv behöver, och ha modet och förmågan att yttra det. Man behöver kunna se andras bidrag. Bygga relationer. Och säkert mycket mer. 
 
@@ -28,6 +28,8 @@ För ett halvår sedan var jag med och försökte anordna en bottom-up folkomrö
 Jag tycke inte det gick så bra. Svenskarna hade svårt att ta till sig idén om att själva skapa demokrati. Och jag återfinner denna erfarenhet i kapitlet "Laying the groundwork", som uttrycker att det krävs mycket förarbete för att kunna ha direktdemokratiska samhällen. Mogenheten att delta måste tränas. Människor behöver också emotionellt läkande. Jag tänker att vi få som gör motstånd inte har resurserna att lansera nationella utbildningskapmanjer, men desto mer då, hur kan vi mogna och utvecklas på mindre skala, i studiegrupper om ett dussin eller så? Boken pekar på många sådana exempel, affinitetsgrupper som mötts ansikte mot ansikte varje vecka i åratal, studerat tillsammans, och hjälpt varandra rekonstruera en politisk förståelse av sin omvärld och definiera sin roll i den. 
 
 Kurdistan är centralt i berättelsen. Kurderna lever och organiserar sig trots att deras land har blivit uppstyckat mellan andra länder, trots att Turkiet fortsätter förfölja dem och förgripa sig på dem. Sättet de organiserar sig på, utan en central nationalstat, visar sig fascinernade. Det handlar om autonom och decentraliserad organisering. Det handlar mycket om kvinnors rättigheter. Jag förstår det som att Öcalan sitter i fängelse i Turkiet men pluggar jättemycket och står för att hitta litteratur och teorier som kan hjälpa skapa en vision för mycket av detta. 
+
+# Heval och Tekmil
 
 Begreppet "Hevaltî" är viktigt. "Heval" betyder "vän" eller "kamrat", men det är i en kontext av livslång dedikation till självutveckling och relationsbyggande, som centralt för själva revolutionen/motståndskampen. Relationerna och "approachen" till det hela, självdispositionen, är viktigare än regler och procedurer. Jag har ofta frågat mig "vem är andra klimataktivister för mig?" Är vi alla vänner? Eller kollegor? Jag tror att vi kan vara både det ena och det andra, men i sin essens handlar det om något annat, som verkar uttryckas i ordet "Heval". Relationen mellan aktivister är en relation där vi ömsesidigt ser att vi vill bli personer och grupper som kan göra något gott för världen. Det är inte att likställa med vänskap, även om dessa två ofta samexisterar. 
 
