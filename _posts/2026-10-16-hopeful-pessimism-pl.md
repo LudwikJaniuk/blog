@@ -22,7 +22,7 @@ Z optymizmem kojarzymy pogodę ducha, wesołość, motywacje, a z optymizmem smu
 
 ## Czym jest nadzieja/rozpacz?
 
-Możemy rozumieć nadzieję jako oczekiwanie jakiegoś dobra, przekonanie że to dobro nie jest nam zagwarantowane, ale jednak jest możliwe: „mam w tym roku nadzieję na pozwyżkę pensji”. To co oczekujemy musi być „dobrem” - stwierdzenie „mam nadzieję że potknę się na schodach” nie ma sensu. Musi też być w jakiejś mierze możliwe - stwierdzenie „mam nadzieję za pięć sekund unieść się w powietrze jak ptak” też jest bezsensowne. 
+Możemy rozumieć nadzieję jako oczekiwanie jakiegoś dobra, oraz przekonanie że to dobro nie jest nam zagwarantowane, ale jednak jest możliwe: „mam w tym roku nadzieję na pozwyżkę pensji”. To co oczekujemy musi być „dobrem” - stwierdzenie „mam nadzieję że potknę się na schodach” nie ma sensu. Musi też być w jakiejś mierze możliwe - stwierdzenie „mam nadzieję za pięć sekund unieść się w powietrze jak ptak” też jest bezsensowne. 
 
 Rozpacz to według słownika języka polskiego PWN „uczucie bezsilności spowodowane zwątpieniem w coś lub nieszczęściem”. Może wydawać się przeciwieństwem nadziei, bo gdy stracimy nadzieję i „zwątpimy”, może pojawić się rozpacz. Jednak zauważmy że rozpacz jest przede wszystkim uczuciem. Nic nie stoi na przeszkodzie, abym czując się zrozpaczony, wciąż walczył o coś w co jeszcze wierzę. Rozpacz i nadzieja mogą w niektórych sytuacjach współistnieć. 
 
