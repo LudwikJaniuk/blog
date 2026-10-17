@@ -42,9 +42,13 @@ Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Ro
 
 Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
 
+### Plemię Wron
+
 Wódz plemiona Wron, Alaxchíia Ahú, którego imie znaczy „liczne osiągnięcia”, przeprowadził swoje plemie przez moment kulturalnej dezintegracji. Najazd białych ludzi w dziewiętnastym wieku był dla ludności rdzennej ameryki północnej czymś jeszcze innym niż przegranie wojny lub kataklizm naturalny. Był stratą ogółnej możności pojmowania swojego otoczenia. Dla nich rzeczywistość sama w sobie to był tryb życia który znali od pokoleń. Sens własnego życia odnosił się do rytmów ziemi na której przebywali, do migracji zwierzyny i walk z innymi plemionami. Jeśli biali ludzie wybili wszystkie bizony i przegnali ich plemie z ich ziemi, to czym w ogóle jest życie? Jak odnaleźć sens? 
 
 Alaxchíia Ahú prowadził swój lud ku drodze jakiegoś rodzaju odnalezienia się w kompletnie obcej rzeczywistości. Kierowany proroczą wizją z młodości, był przekonany że obcy ludzie zniszczą ich świat, ale jeśli będą szukać porozumienia, będą w stanie w jakiś sposób przetrwać. Ów wódz miał nadzieję, ale nie wiedział nawet na co, na pewno nie była to nadzieja na lepszą przyszłość ani na żadne zwycięstwo. Bez wątpienia musiał raz po raz czuć niewyobrażalną rozpacz oglądając jak świat naokoło niego zostaje rozebrany. On nie popadał w bezczyn, miał nadzieję, ale jego nadzieja nie byłą naiwna ani nawet konkretna - powiedziałbym że przypominałą może bardziej wiarę.
+
+### Getto Warszaskie
 
 Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia żydowskiego nie mieli szans wobec społeczeństwie które zdecydowało się ich zabić. Zbrojne siły Niemców z jednej strony, a w getcie, biedni, wygłodzeni ludzie czekający na zesłanie do obozu koncentracyjnego. Niemniej i ci ludzie organizowali powstania. Czy mieli nadzieję na zwycięstwo? Autorka, czytając dzienniki dowódców, potwierdza że byli w pełni świadomi że nie zdołają pokonać swojego ciemięzcy, że nie mają najmniejszych szans. Mimo to prowadziła ich jakaś nadzieja - nadzieja samego stawienia oporu. Taka nadzieja różni się od nadziei najczęściej przez nas rozumianej. Nie chodziło o materialne osiągnięcie sukcesu, ale raczej o zachowanie własnej godności ludzkiej poprzez zbrojny opór.
 
