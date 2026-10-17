@@ -7,7 +7,9 @@ layout: default
 
 # Raport książkowy: „Pesymizm pełen nadziei” (Mara van der Lugt)
 
-Czym jest nadzieja? Wiarą w lepszą przyszłość? Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm? Możnaby tak pomyśleć, jednak kryje się tutaj dużo nieporozumień. Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz co mnie tak właściwie prowadzi. Być może i tobie posłuży ku refleksji.
+Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz co mnie tak właściwie prowadzi.
+
+Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?” Możnaby tak pomyśleć, jednak kryje się tutaj dużo nieporozumień.
 
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
