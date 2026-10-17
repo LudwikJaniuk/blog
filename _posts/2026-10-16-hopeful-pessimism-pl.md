@@ -7,20 +7,20 @@ layout: default
 
 # Raport książkowy: „Pesymizm pełen nadziei” (Mara van der Lugt)
 
-Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz co mnie tak właściwie prowadzi.
+Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz to co mnie tak właściwie prowadzi.
 
-Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?” Możnaby tak pomyśleć, jednak kryje się tutaj dużo nieporozumień.
+Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
 
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
 
-## Czym jest optymizm/pesymizm
+## Czym jest optymizm/pesymizm?
 
 Według autorki, pojęcia „pesymizm” i „optymizm” są związane z przyszłością. Mamy najczęściej na myśli radosne oczekiwanie na dalsze sukcesy, lepsze warunki, albo w drugim przypadku: smutne przygotowanie się na stratę lub porażkę. Może też chodzić o ogólne podejście do sytuacji, o to czy skupiamy się na stronach pozytywnych czy negatywnych. Pojęcia pojawiły się dopiero w osiemnastym wieku, i orygnialnie miały inne znaczenie - chodziło o filozoficzno-teologiczne przekonanie, czy świat stworzony w ostatecznym podrachunku jest raczej dobry, czy zły, i co to z kolei mówi o Stwórcy. 
 
 Z optymizmem kojarzymy pogodę ducha, wesołość, motywacje, a z optymizmem smutek i apatię. Te skojarzenia bywają jednak mylne. Albert Camus, wielki pesymista, był pełen motywacji i angażował się w politykę. Odwrotnie, można być zdania że przyszłośc będzie lepsza, i jednocześnie zawsze skupiać się na tym czego się wciąż nie ma („dostałem podwyżkę, ale sąsiad dostał większą”). A więc możliwe jest mnóstwo dyspozycji, nie tylko dwie alternatywy.
 
-## Czym jest nadzieja/rozpacz
+## Czym jest nadzieja/rozpacz?
 
 Możemy rozumieć nadzieję jako oczekiwanie jakiegoś dobra, przekonanie że to dobro nie jest nam zagwarantowane, ale jednak jest możliwe: „mam w tym roku nadzieję na pozwyżkę pensji”. To co oczekujemy musi być „dobrem” - stwierdzenie „mam nadzieję że potknę się na schodach” nie ma sensu. Musi też być w jakiejś mierze możliwe - stwierdzenie „mam nadzieję za pięć sekund unieść się w powietrze jak ptak” też jest bezsensowne. 
 
