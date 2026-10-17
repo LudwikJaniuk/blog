@@ -28,7 +28,7 @@ Rozpacz to według słownika języka polskiego PWN „uczucie bezsilności spowo
 
 ## Czy nadzieja jest dobra?
 
-Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrzegana jako rodzaj pożądania, a więc nie bez problemów. Grecki generał i historyk Tukidydes postrzegał nadzieję jako „poczucie o dwóch stronach”: z jednej  trony nadzieja nas motywuje do działania, ale z drugiej może być zgubna jeśli jest nieokiełzana. Zwłaszcza w przypadku starań wojennych uznawał iż „nadzieja nie zastąpia strategii”. Warunkiem jest też czy to na co mamy nadzieję jest rzeczywiście dobre. Morderca też ma nadzieję na sukces, która jednak prowadzi go do złego czynu. 
+Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrzegana jako rodzaj pożądania, a więc nie bez problemów. Grecki generał i historyk Tukidydes postrzegał nadzieję jako „poczucie o dwóch stronach”: z jednej strony nadzieja nas motywuje do działania, ale z drugiej może być zgubna jeśli jest nieokiełzana. Zwłaszcza w przypadku starań wojennych uznawał iż „nadzieja nie zastąpia strategii”. Warunkiem jest też czy to na co mamy nadzieję jest rzeczywiście dobre. Morderca też ma nadzieję na sukces, która jednak prowadzi go do złego czynu. 
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
 
