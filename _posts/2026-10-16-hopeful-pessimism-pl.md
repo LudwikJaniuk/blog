@@ -26,17 +26,17 @@ Możemy rozumieć nadzieję jako oczekiwanie jakiegoś dobra, oraz przekonanie �
 
 Rozpacz to według słownika języka polskiego PWN „uczucie bezsilności spowodowane zwątpieniem w coś lub nieszczęściem”. Może wydawać się przeciwieństwem nadziei, bo gdy stracimy nadzieję i „zwątpimy”, może pojawić się rozpacz. Jednak zauważmy że rozpacz jest przede wszystkim uczuciem. Nic nie stoi na przeszkodzie, abym czując się zrozpaczony, wciąż walczył o coś w co jeszcze wierzę. Rozpacz i nadzieja mogą w niektórych sytuacjach współistnieć. 
 
-## Preferencja optymizmu/nadziei
-
-Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
-
-Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
-
 ## Czy nadzieja jest dobra?
 
 Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrzegana jako rodzaj pożądania, a więc nie bez problemów. Grecki generał i historyk Tukidydes postrzegał nadzieję jako „poczucie o dwóch stronach”: z jednej  trony nadzieja nas motywuje do działania, ale z drugiej może być zgubna jeśli jest nieokiełzana. Zwłaszcza w przypadku starań wojennych uznawał iż „nadzieja nie zastąpia strategii”. Warunkiem jest też czy to na co mamy nadzieję jest rzeczywiście dobre. Morderca też ma nadzieję na sukces, która jednak prowadzi go do złego czynu. 
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
+
+## Preferencja optymizmu/nadziei
+
+Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
+
+Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
 
 ## Nadzieja w sytuacji beznadziejniej
 
