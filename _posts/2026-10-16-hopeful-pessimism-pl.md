@@ -30,7 +30,7 @@ Rozpacz to według słownika języka polskiego PWN „uczucie bezsilności spowo
 
 Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
 
-Stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
+Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
 
 ## Czy nadzieja jest dobra?
 
