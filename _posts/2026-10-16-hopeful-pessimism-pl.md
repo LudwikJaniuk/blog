@@ -32,12 +32,6 @@ Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrz
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
 
-## Preferencja optymizmu/nadziei
-
-Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
-
-Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
-
 ## Nadzieja w sytuacji beznadziejniej
 
 Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
@@ -57,6 +51,18 @@ Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale p
 ## Możność „pesymizmu pełnego nadziei”
 
 Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i powrotu do nadziei. Być może postawa pesymistyczna jest najbardziej szczera, i wbrew pozorom niesie w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja przymusowego optymizmu którego wymagają od nas normy społeczeństwa. 
+
+## Preferencja optymizmu/nadziei oraz jej koszt
+
+Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
+
+Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
+
+Takie typowe podejście potrafi jednak być brutalne. Przytłaczanie bólu kogoś kto stracił członka rodziny przesłanką żeby się nie smucił, byłoby reakcją bez współczucia. Tak samo gdy nakłąda się naukowcom i aktywistom wymóg aby przekazywali nadzieję, gdy mówią o rzeczywistości coraz cieplejszej ziemi, nakłada się im tylko kolejny ciężar na barki. Podjęcie się zgłębienia nauki związanej z klimatem i atmosferą to nie lada wyczyn. Zmierzenie się z negatywnymi emocjami które są efektem trzeźwego spojrzenia na sprawę, jest traumatyzujące (nie uważam tego słowa za przesadne). 
+
+Kończąc, wymóg ten jest też zdradliwy, o tyle ile pozostawia odbiorców w postawie że „wszystko się i tak rozwiąże, więc nie muszę się angażować”. Taka postawa jest błędna i nie potrzebujemy jej więcej.
+
+
 
 ## Konkluzja
 
