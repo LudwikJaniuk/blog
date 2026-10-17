@@ -40,7 +40,7 @@ Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Ro
 
 ## Nadzieja w sytuacji beznadziejniej
 
-Nasze nawyki względem nadziei służą nam w rzczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
+Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
 
 Wódz plemiona Wron, Alaxchíia Ahú, którego imie znaczy „liczne osiągnięcia”, przeprowadził swoje plemie przez moment kulturalnej dezintegracji. Najazd białych ludzi w dziewiętnastym wieku był dla ludności rdzennej ameryki północnej czymś jeszcze innym niż przegranie wojny lub kataklizm naturalny. Był stratą ogółnej możności pojmowania swojego otoczenia. Dla nich rzeczywistość sama w sobie to był tryb życia który znali od pokoleń. Sens własnego życia odnosił się do rytmów ziemi na której przebywali, do migracji zwierzyny i walk z innymi plemionami. Jeśli biali ludzie wybili wszystkie bizony i przegnali ich plemie z ich ziemi, to czym w ogóle jest życie? Jak odnaleźć sens? 
 
