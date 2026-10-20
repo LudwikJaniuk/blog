@@ -11,9 +11,9 @@ Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczy
 
 Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
 
-J
+![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
-## Otwartosc przyszlosci
+
 ## barak obama
 
 Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta Baraka Obamę, ale grzecznie lecz stanowczo ostrzegał go: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barack Obama mówi że śmie mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
@@ -34,9 +34,12 @@ Inne podejście do nadziei to jest nie ugruntowanie jej na praktycznych oczekiwa
 
 Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje ideę „niebieskiej nadziei”, odróżnionej od „zielonej nadziei” która gruntuje się tylko na obserwacji faktów. Niebieska nadzieja za to znajduje wartość w determinacji, niezależnej od efektu. Wyróżnia ją uznanie otwartej przyszłości, lub niepewności - tak właściwie na prawde nie wiemy w stu prcentach jaka będzie przyszłość. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale _czy jest godne starań._ 
 
+## Otwartosc przyszlosci
 
+Arcybiskup z Canterbury Rowan Williams powiedział kiedyś młodym aktywistom na rzecz środowiska: 
 
-![Okładka książki](/assets/images/hopeful-pessimism.jpg)
+„Może wam się nie udać powstrzymać katastrofy klimatycznej. To co możecie zrobić to żyć bardziej prawdziwe i szczerze już dzisiaj. I ciekawe jest to, że jeśli będziecie żyć prawdziwie i szczerze już dzisiaj, to prawdopodobnie lepiej się dołożycie do powstrzymania katastrofy klimatycznej. Innymi słowy, jeśli spojrzycie na to tylko jako praktyczny problem do rozwiązania, może was ogarnąć frustracja, rozczarowanie, nawet rozpacz. Jeśli spojrzycie na to jako coś co powinno naturalnie wypływać z waszych starań aby życ szczerze w świetle prawdy i rzeczywistości - w takim wypadku kto wie, co może być możliwe?”
+
 
 ## Strzeszczenie książki
 
