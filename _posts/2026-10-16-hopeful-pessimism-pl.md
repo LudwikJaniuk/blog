@@ -22,6 +22,20 @@ I czy takie spojrzenie nie jest bardziej szczere? Tak, „nadzieja” jest popul
 
 ## viktor frankl
 
+W książce „człowiek w poszukiwaniu sensu” Viktor Frankl, psycholog który przeżył Auschwitz, też piszę o nadziei. Opisywał dolę różnych więżniów, także to że wielu z nich poległo przez to że „nie mieli nadziei”. Ale przyglądając się jego opisom, autorka stwierdza że stratę cierpieli tak właściwie ci którzy postawili sobie nadzieję zbyt wysoko, na przykład przekonując się, że na pewno wrócą do domu na święta, i kiedy ta data minęła byli zdruzgotani. Mieli nadzieję, ale ta nadzieja była ugruntowana wyłącznie na jakichś pozytywnych faktach których oczekiwali. Gdy te fakty nie nadeszły, co pozostaje robić żeby uratować taką nadzieję? Niejeden człowiek szuka nowych faktów żeby ją jakoś podratować. Dlatego też, według autorki, niektórzy propagują że gazety powinny raportować więcej dobrych nowin, pozytywnych treści, żeby dać ludziom nadzieję. 
+
+## Vaclav Havel 
+
+Inne podejście do nadziei to jest nie ugruntowanie jej na praktycznych oczekiwaniach, ale kontunuacja starań „bo to jest słuszne”. W roku 1985, Czeski autor i aktywista Vaclav Havel został zapytany czy widział „jakieś ziarnko nadziei w latach osiemdziesiątych”. Zastanowił się poważnie nad odpowiedią. Czechosłowacja była wtedy pod totalitarną władzą, a on sam wyszedł właśnie po czterech latach więzienia za swój polityczny aktywizm. Chciał postawić jasno, co ma na myśli kiedy mówi o „nadziei”. Przedstawił jej dwa rodzaje: Nadzieja jako „taki czy inny stan świata”, zorientowana na toku wydarzeń w świecie, oraz nadzieja jako „stan umysłu”, ugruntowana w wewnętrznym przekonaniu żę „niektóry rzeczy mają sens, niezależnie od tego jak to wszystko pójdzie”. Havel nazywał właśnie to drugie nadzieją. Mówił: „Nadzieja to nie prognostykacja. To jest orientacja ducha, orientacja serca, przewyższa świat doczesny, jest zakotwiczona gdzieś poza nim.” Nie powinna polegać na pozytywnych znakach w świecie. Mówił dalej:
+
+<quote>„Nadzieja, w głębokim i znaczącym sensie, to nie jest radość z tego żę sprawy się toczą pomyślnie, ani inwestycja w firmy które mają zrobić wielki sukces, ale raczej, _umiejętność zapracowania na coś dlatego że jest to dobre, nie tylko bo ma dobrą prognozę sukcesu._ Im bardziej beznadzieją sytuacja w której jednak okazujemy nadzieję, tym głebsza jest nasza nadzieja. Nadieja z pewnością nie jest tym samym co optymizm. Nie jest przekonaniam że wszystko pójdzie dobrze, ale _pewnością że coś ma sens, niezależnie od tego jak to się zakończy._”</quote>
+
+## Niebieska nadzieja
+
+Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje ideę „niebieskiej nadziei”, odróżnionej od „zielonej nadziei” która gruntuje się tylko na obserwacji faktów. Niebieska nadzieja za to znajduje wartość w determinacji, niezależnej od efektu. Wyróżnia ją uznanie otwartej przyszłości, lub niepewności - tak właściwie na prawde nie wiemy w stu prcentach jaka będzie przyszłość. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale _czy jest godne starań._ 
+
+
+
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
 ## Strzeszczenie książki
