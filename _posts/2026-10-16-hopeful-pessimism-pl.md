@@ -9,6 +9,19 @@ layout: default
 
 Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz to co mnie tak właściwie prowadzi.
 
+Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
+
+J
+
+## Otwartosc przyszlosci
+## barak obama
+
+Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta Baraka Obamę, ale grzecznie lecz stanowczo ostrzegał go: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barack Obama mówi że śmie mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
+
+I czy takie spojrzenie nie jest bardziej szczere? Tak, „nadzieja” jest popularna, ona się dobrze sprzedaje w polityce. Ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
+
+## viktor frankl
+
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
 ## Strzeszczenie książki
