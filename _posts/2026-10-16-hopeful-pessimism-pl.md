@@ -44,7 +44,7 @@ Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od k
 
 Takie typowe podejście potrafi jednak być brutalne. Przytłaczanie bólu kogoś kto stracił członka rodziny przesłanką żeby się nie smucił, byłoby reakcją bez współczucia. Tak samo gdy nakłąda się naukowcom i aktywistom wymóg aby przekazywali nadzieję, gdy mówią o rzeczywistości coraz cieplejszej ziemi, nakłada się im tylko kolejny ciężar na barki. Podjęcie się zgłębienia nauki związanej z klimatem i atmosferą to nie lada wyczyn. Zmierzenie się z negatywnymi emocjami które są efektem trzeźwego spojrzenia na sprawę, jest traumatyzujące. Wymóg ten jest też zdradliwy o tyle, o ile pozostawia odbiorców w postawie że „wszystko się i tak rozwiąże, więc nie muszę się angażować”. 
 
-## Część II: Nadzieja w sytuacji beznadziejniej
+## Nadzieja w sytuacji beznadziejniej
 
 Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
 
@@ -60,7 +60,9 @@ Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia 
 
 Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale powinny służyć do namysłu. Jakie aspekty tych przykładów potrafisz odnieść do świata dzisiejszego?
 
-## Istnieje „pesymizmu pełen nadziei”
+<hr />
+
+## Część II: Istnieje „pesymizmu pełen nadziei”
 
 Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i rzekomego powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu". Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
 
