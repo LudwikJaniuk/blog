@@ -36,13 +36,11 @@ Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrz
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
 
-### Preferencja optymizmu
+## Wymóg optymizmu, i jego koszt
 
 Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
 
 Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
-
-## Koszt wymogu optymizmu
 
 Takie typowe podejście potrafi jednak być brutalne. Przytłaczanie bólu kogoś kto stracił członka rodziny przesłanką żeby się nie smucił, byłoby reakcją bez współczucia. Tak samo gdy nakłąda się naukowcom i aktywistom wymóg aby przekazywali nadzieję, gdy mówią o rzeczywistości coraz cieplejszej ziemi, nakłada się im tylko kolejny ciężar na barki. Podjęcie się zgłębienia nauki związanej z klimatem i atmosferą to nie lada wyczyn. Zmierzenie się z negatywnymi emocjami które są efektem trzeźwego spojrzenia na sprawę, jest traumatyzujące. Wymóg ten jest też zdradliwy o tyle, o ile pozostawia odbiorców w postawie że „wszystko się i tak rozwiąże, więc nie muszę się angażować”. 
 
