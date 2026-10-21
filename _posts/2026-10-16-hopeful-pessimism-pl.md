@@ -29,7 +29,7 @@ Możemy rozumieć nadzieję jako oczekiwanie jakiegoś dobra, oraz przekonanie �
 
 Rozpacz to według słownika języka polskiego PWN „uczucie bezsilności spowodowane zwątpieniem w coś lub nieszczęściem”. Może wydawać się przeciwieństwem nadziei, bo gdy stracimy nadzieję i „zwątpimy”, może pojawić się rozpacz. Jednak zauważmy że rozpacz jest przede wszystkim uczuciem. Nic nie stoi na przeszkodzie, abym czując się zrozpaczony, wciąż walczył o coś w co jeszcze wierzę. Rozpacz i nadzieja mogą w niektórych sytuacjach współistnieć. 
 
-### Czy nadzieja jest dobra?
+### Czy nadzieja jest *dobra*?
 
 Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrzegana jako rodzaj pożądania, a więc nie bez problemów. Grecki generał i historyk Tukidydes postrzegał nadzieję jako „poczucie o dwóch stronach”: z jednej strony nadzieja nas motywuje do działania, ale z drugiej może być zgubna jeśli jest nieokiełzana. Zwłaszcza w przypadku starań wojennych uznawał iż „nadzieja nie zastąpia strategii”. Warunkiem jest też czy to na co mamy nadzieję jest rzeczywiście dobre. Morderca też ma nadzieję na sukces, która jednak prowadzi go do złego czynu. 
 
