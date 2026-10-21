@@ -87,7 +87,7 @@ Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje id
 
 ### Otwartość przyszłości
 
-"Niebieską nadzieję" wyróżnia także uznanie otwartej przyszłości, fundamentalnie niepewnej - tak właściwie nie wiemy w stu procentach jaka będzie. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale *czy jest godne starań.* 
+"Niebieską nadzieję" wyróżnia także uznanie otwartej przyszłości, fundamentalnie niepewnej - tak właściwie nie wiemy w stu procentach jaka będzie. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Prypomnijmy sobie nadzieję Alaxchíia Ahú - silnej, wytrwałej, ale także *nieokreślonej*. Była to nadzieja na coś, nie wiadomo co, ale mimo wszystko pozostawała z nim gdy każdy normalny sposób postzegania świata zaginął. Niebieską nadzieję wyróżnia skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale *czy jest godne starań.* 
 
 ### Rowan Williams
 
