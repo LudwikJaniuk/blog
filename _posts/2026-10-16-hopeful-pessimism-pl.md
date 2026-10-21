@@ -92,7 +92,7 @@ Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje id
 
 Arcybiskup z Canterbury Rowan Williams powiedział kiedyś młodym aktywistom na rzecz środowiska: 
 
-> „Może wam się nie udać powstrzymać katastrofy klimatycznej. To co możecie zrobić to żyć bardziej prawdziwe i szczerze już dzisiaj. I ciekawe jest to, że jeśli będziecie żyć prawdziwie i szczerze już dzisiaj, to prawdopodobnie lepiej się dołożycie do powstrzymania katastrofy klimatycznej. Innymi słowy, jeśli spojrzycie na to tylko jako praktyczny problem do rozwiązania, może was ogarnąć frustracja, rozczarowanie, nawet rozpacz. Jeśli spojrzycie na to jako coś co powinno naturalnie wypływać z waszych starań aby życ szczerze w świetle prawdy i rzeczywistości - w takim wypadku kto wie, co może być możliwe?”
+>„Może wam się nie udać powstrzymać katastrofy klimatycznej. To co możecie zrobić to żyć bardziej prawdziwe i szczerze już dzisiaj. I ciekawe jest to, że jeśli będziecie żyć prawdziwie i szczerze już dzisiaj, to prawdopodobnie lepiej się dołożycie do powstrzymania katastrofy klimatycznej. Innymi słowy, jeśli spojrzycie na to tylko jako praktyczny problem do rozwiązania, może was ogarnąć frustracja, rozczarowanie, nawet rozpacz. Jeśli spojrzycie na to jako coś co powinno naturalnie wypływać z waszych starań aby życ szczerze w świetle prawdy i rzeczywistości - w takim wypadku kto wie, co może być możliwe?”
 
 ## Konkluzja
 
