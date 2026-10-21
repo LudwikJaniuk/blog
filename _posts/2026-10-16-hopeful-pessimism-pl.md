@@ -70,7 +70,7 @@ Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy 
 
 ## Cornel West
 
-Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta Baraka Obamę, ale grzecznie lecz stanowczo ostrzegał go: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barack Obama mówi że śmie mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
+Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta USA Baraka Obamę w roku 2008. Grzecznie lecz stanowczo ostrzegał: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
 
 I czy takie spojrzenie nie jest bardziej szczere? Tak, „nadzieja” jest popularna, ona się dobrze sprzedaje w polityce. Ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
 
