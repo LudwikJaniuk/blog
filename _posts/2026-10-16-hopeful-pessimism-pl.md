@@ -1,7 +1,7 @@
 ---
 title: "Raport książkowy: „Pesymizm pełen nadziei” (Mara van der Lugt)"
-date: 2026-10-16
-tags: svenska
+date: 2026-10-21
+tags: polski
 layout: default
 ---
 
@@ -86,9 +86,13 @@ W roku 1985, Czeski autor i aktywista Vaclav Havel został zapytany czy widział
 
 ## Niebieska nadzieja
 
-Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje ideę „niebieskiej nadziei”, odróżnionej od „zielonej nadziei” która gruntuje się tylko na obserwacji faktów. Niebieska nadzieja za to znajduje wartość w determinacji, niezależnej od efektu. Wyróżnia ją uznanie otwartej przyszłości, lub niepewności - tak właściwie na prawde nie wiemy w stu prcentach jaka będzie przyszłość. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale *czy jest godne starań.* 
+Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje ideę „niebieskiej nadziei”, odróżnionej od „zielonej nadziei” która gruntuje się tylko na obserwacji faktów. Niebieska nadzieja za to znajduje wartość w determinacji, niezależnej od efektu. 
 
-## Otwartość przyszłości
+### Otwartość przyszłości
+
+"Niebieską nadzieję" wyróżnia także uznanie otwartej przyszłości, fundamentalnie niepewnej - tak właściwie nie wiemy w stu procentach jaka będzie. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale *czy jest godne starań.* 
+
+### Rowan Williams
 
 Arcybiskup z Canterbury Rowan Williams powiedział kiedyś młodym aktywistom na rzecz środowiska: 
 
