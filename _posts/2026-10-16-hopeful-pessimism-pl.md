@@ -9,7 +9,7 @@ layout: default
 
 Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczytałem książkę „Pesymizm pełen nadziei” Mary van der Lugt. Jest to nowa książka, wydana w roku 2025, i pomogła mi lepiej zrozumieć mój pesymizm, moją nadzieję, oraz to co mnie tak właściwie prowadzi.
 
-Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
+Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje taki pesymizm który nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć w najciemniejszych czeluściach rozpaczy.
 
 Ten raport książkowy wyszedł długi, ale ta książka była dla mnie bardzo ważna. W pierwszej części przekazuję analizę autorki na temat konceptów takich jak nadzieja czy optymizm. W drugiej części rozwijam pytanie, co z tym zrobić dalej.
 
