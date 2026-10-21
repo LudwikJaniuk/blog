@@ -96,6 +96,6 @@ Arcybiskup z Canterbury Rowan Williams powiedział kiedyś młodym aktywistom na
 
 ## Konkluzja
 
-Krótko mówiąc: pozwólcie mi być kurwa pesymistą. Nie stracę nadziei, nie popadnę w bezczyn, bo moja nadzieja stoi na innym fundamencie. Wiedząc że nie może liczyć na sukces, poczuwa się o odpowiedialność starania się. Mam nadzieję że zrobię to co w mojej mocy. Że przez całą drogę będę robił to co słuszne, w sytuacjach w których życie mnie postawi. O taką nadzieję się modlę. Pomagajcię mi ją krzepić.
+Krótko mówiąc: pozwólcie mi być pesymistą. Nie stracę nadziei, nie popadnę w bezczyn, bo moja nadzieja stoi na innym fundamencie. Wiedząc że nie może liczyć na sukces, poczuwa się o odpowiedialność starania się. Mam nadzieję że zrobię to co w mojej mocy. Że przez całą drogę będę robił to co słuszne, w sytuacjach w których życie mnie postawi. O taką nadzieję się modlę. Pomagajcię mi ją krzepić.
 
 Taka właśnie nadzieja jest potrzebna nie tylko jednostkom ale całemu społeczeństwu, bo w czasach gdy surowce się kończą, będziemy chcieli zamknąć się w zamku i mieć wszystkich innych w dupie. Obecne porywy polityczne to dowodzą. Nie możemy już mieć nadziei na utrzymanie planety tak żyznej, stabilnej i bezpiecznej jaką była przez całą współczesną historię cywilizacji. Za to zawsze będziemy mogli mieć nadzieję nie pogorszyć sprawy jeszcze dalej, i nadzieje stawić czoło kataklizmom w duchu solidarności i wsparcia, miast barbaryzmu. Ale mamy tą nadzieję tylko jeśli o nią walczymy. Dlatego właśnie uprawiam aktywizm klimatyczny. 
