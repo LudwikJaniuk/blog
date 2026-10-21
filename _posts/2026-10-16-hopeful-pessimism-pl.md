@@ -11,9 +11,11 @@ Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczy
 
 Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
 
+Ten raport książkowy wyszedł długi, ale ta książka była dla mnie bardzo ważna. W pierwszej części przekazuję analizę autorki na temat konceptów takich jak nadzieja czy optymizm. W drugiej części rozwijam pytanie, co z tym zrobić dalej.
+
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
-## Przyjżyjmy się podstawom
+## Część I: Przyjżyjmy się podstawom
 
 Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
 
@@ -42,7 +44,7 @@ Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od k
 
 Takie typowe podejście potrafi jednak być brutalne. Przytłaczanie bólu kogoś kto stracił członka rodziny przesłanką żeby się nie smucił, byłoby reakcją bez współczucia. Tak samo gdy nakłąda się naukowcom i aktywistom wymóg aby przekazywali nadzieję, gdy mówią o rzeczywistości coraz cieplejszej ziemi, nakłada się im tylko kolejny ciężar na barki. Podjęcie się zgłębienia nauki związanej z klimatem i atmosferą to nie lada wyczyn. Zmierzenie się z negatywnymi emocjami które są efektem trzeźwego spojrzenia na sprawę, jest traumatyzujące. Wymóg ten jest też zdradliwy o tyle, o ile pozostawia odbiorców w postawie że „wszystko się i tak rozwiąże, więc nie muszę się angażować”. 
 
-## Nadzieja w sytuacji beznadziejniej
+## Część II: Nadzieja w sytuacji beznadziejniej
 
 Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
 
