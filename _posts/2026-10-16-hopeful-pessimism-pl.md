@@ -11,14 +11,11 @@ Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczy
 
 Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
 
+Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
+
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
-
-
-
-## Argument książki
-
-Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
+## Przyjżyjmy się podstawom
 
 ### Czym jest optymizm/pesymizm?
 
@@ -38,25 +35,27 @@ Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrz
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
 
-### Preferencja optymizmu/nadziei oraz jej koszt
+### Preferencja optymizmu
 
 Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. 
 
 Dodam od siebie, że stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
 
+## Koszt wymogu optymizmu
+
 Takie typowe podejście potrafi jednak być brutalne. Przytłaczanie bólu kogoś kto stracił członka rodziny przesłanką żeby się nie smucił, byłoby reakcją bez współczucia. Tak samo gdy nakłąda się naukowcom i aktywistom wymóg aby przekazywali nadzieję, gdy mówią o rzeczywistości coraz cieplejszej ziemi, nakłada się im tylko kolejny ciężar na barki. Podjęcie się zgłębienia nauki związanej z klimatem i atmosferą to nie lada wyczyn. Zmierzenie się z negatywnymi emocjami które są efektem trzeźwego spojrzenia na sprawę, jest traumatyzujące. Wymóg ten jest też zdradliwy o tyle, o ile pozostawia odbiorców w postawie że „wszystko się i tak rozwiąże, więc nie muszę się angażować”. 
 
-### Nadzieja w sytuacji beznadziejniej
+## Nadzieja w sytuacji beznadziejniej
 
 Nasze nawyki względem nadziei służą nam w rzeczywistości którą znamy, ale mogą nas poprowadzić na manowce w nowych sytuacjach. Autorka zwraca uwagę na parę przykłądów historycznych gdzie ludzie byli w sytuacjach beznadziejnych, w celu urozmaicenia pojęcia „nadziei”.
 
-#### Plemię Wron
+### Plemię Wron
 
 Wódz plemiona Wron, Alaxchíia Ahú, którego imie znaczy „liczne osiągnięcia”, przeprowadził swoje plemie przez moment kulturalnej dezintegracji. Najazd białych ludzi w dziewiętnastym wieku był dla ludności rdzennej ameryki północnej czymś jeszcze innym niż przegranie wojny lub kataklizm naturalny. Był stratą ogółnej możności pojmowania swojego otoczenia. Dla nich tryb życia który znali od pokoleń, to to była jedyna rzeczywstość którą znali. Sens własnego życia odnosił się do rytmów ziemi na której przebywali, do migracji zwierzyny i walk z innymi plemionami. Jeśli biali ludzie wybili wszystkie bizony i przegnali ich plemie z ich ziemi, to czym w ogóle jest życie? Jak odnaleźć sens? 
 
 Alaxchíia Ahú prowadził swój lud ku drodze jakiegoś rodzaju odnalezienia się w kompletnie obcej rzeczywistości. Kierowany proroczą wizją z młodości, był przekonany że obcy ludzie zniszczą ich świat, ale jeśli będą szukać porozumienia, będą w stanie w jakiś sposób przetrwać. Ów wódz miał nadzieję, ale nie wiedział nawet na co, na pewno nie była to nadzieja na lepszą przyszłość ani na żadne zwycięstwo. Bez wątpienia musiał raz po raz czuć niewyobrażalną rozpacz oglądając jak świat naokoło niego zostaje rozebrany. On nie popadał w bezczyn, miał nadzieję, ale jego nadzieja nie byłą naiwna ani nawet konkretna - powiedziałbym że przypominałą może bardziej wiarę.
 
-#### Getto Warszawskie
+### Getto Warszawskie
 
 Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia żydowskiego nie mieli szans wobec społeczeństwu które zdecydowało się ich zabić. Zbrojne siły Niemców z jednej strony, a w getcie, biedni, wygłodzeni ludzie czekający na zesłanie do obozu koncentracyjnego. Niemniej i ci ludzie organizowali powstania. Czy mieli nadzieję na zwycięstwo? Autorka, czytając dzienniki dowódców, potwierdza że byli w pełni świadomi że nie zdołają pokonać swojego ciemięzcy, że nie mają najmniejszych szans. Mimo to prowadziła ich jakaś nadzieja - nadzieja samego stawienia oporu. Taka nadzieja różni się od nadziei najczęściej przez nas rozumianej. Nie chodziło o materialne osiągnięcie sukcesu, ale raczej o zachowanie własnej godności poprzez zbrojny opór.
 
