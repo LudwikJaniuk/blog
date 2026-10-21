@@ -11,11 +11,12 @@ Czym jest nadzieja? Czy wiarą w lepszą przyszłość? Cieszę się że przeczy
 
 Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydliwym. Mimo iż go często tak postrzegamy, nie musi być oznaką rezygnacji, a potrafi być nawet resultatem szczerości umysłu i odwagi. No i wcale nie musi prowadzić do bezczynu. Bo istnieje pesymizm taki który jednak nawołuje do działania. I istnieje taka nadzieja, która potrafi przeżyć i w najciemniejszych czeluściach rozpaczy.
 
-Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
-
 ![Okładka książki](/assets/images/hopeful-pessimism.jpg)
 
 ## Przyjżyjmy się podstawom
+
+Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
+
 
 ### Czym jest optymizm/pesymizm?
 
