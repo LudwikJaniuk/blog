@@ -58,15 +58,17 @@ Alaxchíia Ahú prowadził swój lud ku drodze jakiegoś rodzaju odnalezienia si
 
 #### Getto Warszawskie
 
-Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia żydowskiego nie mieli szans wobec społeczeństwu które zdecydowało się ich zabić. Zbrojne siły Niemców z jednej strony, a w getcie, biedni, wygłodzeni ludzie czekający na zesłanie do obozu koncentracyjnego. Niemniej i ci ludzie organizowali powstania. Czy mieli nadzieję na zwycięstwo? Autorka, czytając dzienniki dowódców, potwierdza że byli w pełni świadomi że nie zdołają pokonać swojego ciemięzcy, że nie mają najmniejszych szans. Mimo to prowadziła ich jakaś nadzieja - nadzieja samego stawienia oporu. Taka nadzieja różni się od nadziei najczęściej przez nas rozumianej. Nie chodziło o materialne osiągnięcie sukcesu, ale raczej o zachowanie własnej godności ludzkiej poprzez zbrojny opór.
+Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia żydowskiego nie mieli szans wobec społeczeństwu które zdecydowało się ich zabić. Zbrojne siły Niemców z jednej strony, a w getcie, biedni, wygłodzeni ludzie czekający na zesłanie do obozu koncentracyjnego. Niemniej i ci ludzie organizowali powstania. Czy mieli nadzieję na zwycięstwo? Autorka, czytając dzienniki dowódców, potwierdza że byli w pełni świadomi że nie zdołają pokonać swojego ciemięzcy, że nie mają najmniejszych szans. Mimo to prowadziła ich jakaś nadzieja - nadzieja samego stawienia oporu. Taka nadzieja różni się od nadziei najczęściej przez nas rozumianej. Nie chodziło o materialne osiągnięcie sukcesu, ale raczej o zachowanie własnej godności poprzez zbrojny opór.
 
 Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale powinny służyć do namysłu. Jakie aspekty tych przykładów potrafisz odnieść do świata dzisiejszego?
 
 ### Możność „pesymizmu pełnego nadziei”
 
-Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i powrotu do nadziei. Być może postawa pesymistyczna jest najbardziej szczera, i wbrew pozorom niesie w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja przymusowego optymizmu którego wymagają od nas normy społeczeństwa. 
+Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu".
 
-## Barack Obama
+Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
+
+## Cornel West
 
 Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta Baraka Obamę, ale grzecznie lecz stanowczo ostrzegał go: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barack Obama mówi że śmie mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
 
