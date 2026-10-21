@@ -16,7 +16,7 @@ Ta książka pomogła mi wysłowić że pesymizm nie powinien być czymś wstydl
 
 
 
-## Strzeszczenie książki
+## Argument książki
 
 Staram się tutaj streścić tok myśli który w tej książce do mnie premówił. Centralnym pytaniem jest: „Jeśli jestem przekonany o przyszłości raczej gorszej niż lepszej, czy to znaczy że nie mam nadziei i popadam w fatalizm?”
 
