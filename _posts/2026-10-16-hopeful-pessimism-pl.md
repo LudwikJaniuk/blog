@@ -67,7 +67,7 @@ Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i 
 ### Cornel West
 
 Amerykański teolog i filozof Cornel West, gdy wspierał kandydata na prezydenta USA Baraka Obamę w roku 2008, grzecznie lecz stanowczo ostrzegał: 
->„Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
+>„Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć nadzieję. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
 
 Przesłanie „nadziei” spredaje się w polityce, ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
 
