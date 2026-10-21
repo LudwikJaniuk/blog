@@ -88,7 +88,7 @@ Inne podejście do nadziei to jest nie ugruntowanie jej na praktycznych oczekiwa
 
 Na podstawie tych i innych zróżnicowanych przykłądów, autorka formułuje ideę „niebieskiej nadziei”, odróżnionej od „zielonej nadziei” która gruntuje się tylko na obserwacji faktów. Niebieska nadzieja za to znajduje wartość w determinacji, niezależnej od efektu. Wyróżnia ją uznanie otwartej przyszłości, lub niepewności - tak właściwie na prawde nie wiemy w stu prcentach jaka będzie przyszłość. Możemy w różnych chwilach być przekonani o różnych rzeczach, ale tak na prawde nie wiemy. Wyróżnia ją także skupienie nie na tym jakie szanse ma dane przedsięwzięcie na sukces, ale _czy jest godne starań._ 
 
-## Otwartosc przyszlosci
+## Otwartość przyszłości
 
 Arcybiskup z Canterbury Rowan Williams powiedział kiedyś młodym aktywistom na rzecz środowiska: 
 
