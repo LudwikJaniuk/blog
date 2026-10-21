@@ -64,9 +64,7 @@ Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale p
 
 ## Możność „pesymizmu pełnego nadziei”
 
-Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i rzekomego powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu".
-
-Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
+Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i rzekomego powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu". Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
 
 ### Cornel West
 
