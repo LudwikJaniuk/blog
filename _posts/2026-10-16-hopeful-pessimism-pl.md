@@ -38,7 +38,7 @@ Niekoniecznie! Autorka przypomina że w tradycji stoicyzmu, nadzieja jest postrz
 
 Oczywiście nadzieja jest też czymś bardzo dobrym. Dzięki nadziei wiele ludzi zdołało osiągnąć fantastyczne dzieła, lub wyjść z trudnych sytuacji. Dodam od siebie że nadzieja jest czymś wspólnym: podnosząc siebie nawzajem na duchu, na prawdę znajdujemy więcej siły w sobie niż byloby to inaczej możliwe.
 
-## Wymóg optymizmu, i jego koszt
+### Wymóg optymizmu, i jego koszt
 
 Istnieje taka tendencja, ze generalnie preferuje się optymizm i nadzieję. Od konwersacyj przy stole kuchennym, po wywiady w mediach, przemówienia polityków, i nawet moje własne blogi, instnieje wszechobecna presja aby być optymistycznym, dawać nadzieję, i zakończyć na pozytywnej nucie. Stawiamy sobie takie oczekiwania bo chcemy być lubiani. Rozumiemy podświadomie że inni lubią słyszeć dobre nowiny, i że swoje odczucie przeniosą na nas. Taka motywacja jednak nie wystarczy, więc mówi się też o tym że nie chce się zostawiać ludzi z poczuciem beznadziei, bo to by doprowadziło do apatii i poddania się, do fatalizmu.
 
