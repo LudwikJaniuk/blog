@@ -64,15 +64,16 @@ Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale p
 
 ## Możność „pesymizmu pełnego nadziei”
 
-Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu".
+Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i rzekomego powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu".
 
 Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
 
 ### Cornel West
 
-Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta USA Baraka Obamę w roku 2008. Grzecznie lecz stanowczo ostrzegał: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
+Amerykański teolog i filozof Cornel West, gdy wspierał kandydata na prezydenta USA Baraka Obamę w roku 2008, grzecznie lecz stanowczo ostrzegał: 
+>„Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
 
-I czy takie spojrzenie nie jest bardziej szczere? Tak, „nadzieja” jest popularna, ona się dobrze sprzedaje w polityce. Ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
+Przesłanie „nadziei” spredaje się w polityce, ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
 
 ### Viktor Frankl
 
