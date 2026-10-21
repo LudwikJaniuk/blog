@@ -62,23 +62,23 @@ Inny przykład: w getcie Warszawskim, uwięzieni i umęczeni ludzie pochodzenia 
 
 Te przykłady nie przekładają się identycznie na dzisiejszą sytuację, ale powinny służyć do namysłu. Jakie aspekty tych przykładów potrafisz odnieść do świata dzisiejszego?
 
-### Możność „pesymizmu pełnego nadziei”
+## Możność „pesymizmu pełnego nadziei”
 
 Po tym że pogłębiliśmy zrozumienie pojęć takich jak optymizm i rozpacz, i przyjżeliśmy się przykładom z historii, możemy przyjąć że pesymizm nie wyklucza nadziei, oraz że nadzieja nabiera różne kształty które mogą być odpowiednie do różnych sytuacji. A więc ktoś kto widzi przyszłość ponurą, nie powinien być od razu nawoływany do zmiany postawy i powrotu do nadziei. Postawa pesymistyczna może być wręcz najbardziej szczera, i wbrew pozorom nieść w sobie prawdziwą nadzieję, bardziej stosowną do sytuacji, niż nadzieja "wymuszonego optymizmu".
 
 Autorka przytacza różne przykłady myślicieli i osób historycznych, którzy poruszali ten sam temat na swoje sposoby:
 
-## Cornel West
+### Cornel West
 
 Jest taki cytat amerykańskiego teologa i filozofa Cornela Westa, gdy wspierał kandydata na prezydenta USA Baraka Obamę w roku 2008. Grzecznie lecz stanowczo ostrzegał: „Jest niejasne czy sobie poradzimy. Wcale nie jestem optymistą. Brat Barak Obama mówi że ma śmiałość mieć odwagę. Ja mówię: Cóż, jaką cenę jesteś gotów zapłacić?”
 
 I czy takie spojrzenie nie jest bardziej szczere? Tak, „nadzieja” jest popularna, ona się dobrze sprzedaje w polityce. Ale potrafi tylko na tym pozostać, potrafi być popularną otoczką gry o władzę.
 
-## Viktor Frankl
+### Viktor Frankl
 
 W książce „człowiek w poszukiwaniu sensu” Viktor Frankl, psycholog który przeżył Auschwitz, też piszę o nadziei. Opisywał dolę różnych więżniów, także to że wielu z nich poległo przez to że „nie mieli nadziei”. Ale przyglądając się jego opisom, autorka stwierdza że stratę cierpieli tak właściwie ci którzy postawili sobie nadzieję zbyt wysoko, na przykład przekonując się, że na pewno wrócą do domu na święta, i kiedy ta data minęła byli zdruzgotani. Mieli nadzieję, ale ta nadzieja była ugruntowana wyłącznie na jakichś pozytywnych faktach których oczekiwali. Gdy te fakty nie nadeszły, co pozostaje robić żeby uratować taką nadzieję? Niejeden człowiek szuka nowych faktów żeby ją jakoś podratować. Dlatego też, według autorki, niektórzy propagują że gazety powinny raportować więcej dobrych nowin, pozytywnych treści, żeby dać ludziom nadzieję. 
 
-## Vaclav Havel 
+### Vaclav Havel 
 
 Inne podejście do nadziei to jest nie ugruntowanie jej na praktycznych oczekiwaniach, ale kontunuacja starań „bo to jest słuszne”. W roku 1985, Czeski autor i aktywista Vaclav Havel został zapytany czy widział „jakieś ziarnko nadziei w latach osiemdziesiątych”. Zastanowił się poważnie nad odpowiedią. Czechosłowacja była wtedy pod totalitarną władzą, a on sam wyszedł właśnie po czterech latach więzienia za swój polityczny aktywizm. Chciał postawić jasno, co ma na myśli kiedy mówi o „nadziei”. Przedstawił jej dwa rodzaje: Nadzieja jako „taki czy inny stan świata”, zorientowana na toku wydarzeń w świecie, oraz nadzieja jako „stan umysłu”, ugruntowana w wewnętrznym przekonaniu żę „niektóry rzeczy mają sens, niezależnie od tego jak to wszystko pójdzie”. Havel nazywał właśnie to drugie nadzieją. Mówił: „Nadzieja to nie prognostykacja. To jest orientacja ducha, orientacja serca, przewyższa świat doczesny, jest zakotwiczona gdzieś poza nim.” Nie powinna polegać na pozytywnych znakach w świecie. Mówił dalej:
 
