@@ -24,7 +24,7 @@ Staram się tutaj streścić tok myśli który w tej książce do mnie premówi�
 
 Według autorki, pojęcia „pesymizm” i „optymizm” są związane z przyszłością. Mamy najczęściej na myśli radosne oczekiwanie na dalsze sukcesy, lepsze warunki, albo w drugim przypadku: smutne przygotowanie się na stratę lub porażkę. Może też chodzić o ogólne podejście do sytuacji, o to czy skupiamy się na stronach pozytywnych czy negatywnych. Pojęcia pojawiły się dopiero w osiemnastym wieku, i orygnialnie miały inne znaczenie - chodziło o filozoficzno-teologiczne przekonanie, czy świat stworzony w ostatecznym podrachunku jest raczej dobry, czy zły, i co to z kolei mówi o Stwórcy. 
 
-Z optymizmem kojarzymy pogodę ducha, wesołość, motywacje, a z optymizmem smutek i apatię. Te skojarzenia bywają jednak mylne. Albert Camus, wielki pesymista, był pełen motywacji i angażował się w politykę. Odwrotnie, można być zdania że przyszłośc będzie lepsza, i jednocześnie zawsze skupiać się na tym czego się wciąż nie ma („dostałem podwyżkę, ale sąsiad dostał większą”). A więc możliwe jest mnóstwo dyspozycji, nie tylko dwie alternatywy.
+Z optymizmem kojarzymy pogodę ducha, wesołość, motywacje, a z pesymizmem smutek i apatię. Te skojarzenia bywają jednak mylne. Albert Camus, wielki pesymista, był pełen motywacji i angażował się w politykę. Odwrotnie, można być zdania że przyszłośc będzie lepsza, i jednocześnie zawsze skupiać się na tym czego się wciąż nie ma („dostałem podwyżkę, ale sąsiad dostał większą”). A więc możliwe jest mnóstwo dyspozycji, nie tylko dwie alternatywy.
 
 ### Czym jest nadzieja/rozpacz?
 
