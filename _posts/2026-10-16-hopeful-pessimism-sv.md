@@ -9,7 +9,7 @@ layout: default
 
 Vad är hopp? Är det tron på en bättre framtid? Jag är glad att ha läst boken "Hopeful Pessimism" av Mara van der Lugt. Det är en ny bok, utgiven 2025, och den har hjälpt mig att bättre förstå min pessimism, mitt hopp och vad som verkligen driver mig.
 
-Pessimism inte borde vara något att skämmas för. Även om vi ofta uppfattar det så, behöver det inte vara ett tecken på resignation och kan till och med vara resultatet av ärlighet och mod. Och det behöver inte leda till passivitet. För det finns en sorts pessimism sporrar till handling. Och det finns ett sorts hopp som kan överleva i förtvivlans mörkaste djup.
+Även om vi ofta uppfattar det så, borde Pessimism inte vara något att skämmas för. Det behöver inte alls betyda att man givit upp, utan kan rentav resultera ur ärlighet och mod. Och det behöver inte leda till passivitet. För det finns en sorts pessimism som sporrar till handling. Och det finns ett sorts hopp som kan överleva i förtvivlans mörkaste djup.
 
 Den här bokrapporten är lång, men boken var mycket viktig för mig. I den första delen presenterar jag författarens analys av begrepp som hopp och optimism. I den andra delen utforskar jag vad dessa leder till.
 
