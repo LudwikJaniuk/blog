@@ -100,3 +100,15 @@ Baserat på dessa och andra exempel formulerar författaren idén om "blått hop
 Kort sagt: låt mig vara en pessimist. Jag kommer inte att förlora hoppet, jag kommer inte att falla i passivitet, eftersom mitt hopp vilar på en annan grund. Med vetskapen om att jag inte kan räkna med framgång känner jag ett ansvar att ändå försöka. Jag hoppas att jag kommer att göra mitt bästa. Att jag kommer att göra det som är rätt hela vägen, i de situationer livet sätter mig i. Jag ber till Gud om ett sådant hopp. Och alla kan odla ett sådant hopp, hopp som en förvärvad egenskap.
 
 Detta är just den typen av hopp som behövs inte bara av individer utan av samhället som helhet, för i tider av sinande resurser kommer vi att vilja låsa in oss i våra slott och inte bry oss ett dugg om alla andra. Det som händer i världspolitiken just nu påvisar detta. Vi kan inte längre hoppas på att hålla planeten lika bördig, stabil och säker som den har varit genom civilisationens historia. Istället kan vi alltid hoppas på att inte ytterligare förvärra saken och hoppas på att möta katastroferna i en anda av solidaritet och stöd, snarare än barbari. Men vi har bara detta hopp om vi kämpar för det. Det är därför jag utövar klimataktivism.
+
+<hr>
+
+# Kommentarer
+
+> Hurra för denna recension! Jag blir glad! Det fokuserar på något som jag och många av mina kolleger har skrattat åt och varit arga på länge: att vi förväntas vara så POSSitiva hela tiden, in absurdum!
+Inte klaga över missförhållanden, inte gnälla över våra villkor, ständigt denna orealistiska optimism. 
+Vi har gått kurser! 
+Det är till och med ett lönekriterium! Ni andra känner säkert också igen det. 
+Men Vaclav Havel sa det så bra: att det sanna hoppet inte är beroende av yttre faktorer, utan en tro.
+
+ - Mårina Håkonsson, 2026-10-29
