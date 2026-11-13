@@ -1,5 +1,5 @@
 ---
-title: "En värdig respons - ta på Bildas senior-event"
+title: "En värdig respons - mitt tal på Bildas senior-event"
 date: 2026-11-13
 tags: svenska
 layout: default
