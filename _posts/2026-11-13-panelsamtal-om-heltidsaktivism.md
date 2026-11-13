@@ -1,4 +1,3 @@
-
 ---
 title: "Panelsamtal om heltidsaktivism"
 date: 2026-11-11
