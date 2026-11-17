@@ -7,7 +7,7 @@ layout: default
 
 Jag deltog just i en unik konferens. [ClimateExistence](https://www.cemus.uu.se/climateexistence/) samlar människor som ser och bryr sig om klimatkrisen, men tar sig an den på ett interdisciplinärt sätt. Forskare, konstnärer, aktivister, pedagoger. Och många andra. Jag känner en stor samhörighet i den här skaran - samhörighet i brokigheten, i viljan att gå till roten, i nyfikenheten, i vägran att bara passa in.
 
-[Det började med Kevin Anderson](https://youtu.be/URDW5bRjE9c), klimatforskare. Data, känslor, interntionella avtal. Sedan gick vi till Orangeriet. Ida Lod och	 Julia Adzuki ledde oss genom en ritual för att utforska med våra kroppar. Vi ledde varandra i blindo och kände på giftiga växter.
+Det började med Kevin Anderson ([INSPELNING](https://youtu.be/URDW5bRjE9c)), klimatforskare. Data, känslor, interntionella avtal. Sedan gick vi till Orangeriet. Ida Lod och	 Julia Adzuki ledde oss genom en ritual för att utforska med våra kroppar. Vi ledde varandra i blindo och kände på giftiga växter.
 
 ![Staty av linne täckt med tyg](/assets/images/linne.jpg)
 
@@ -15,7 +15,7 @@ En session jag var på handlare om frigörande pedagogik. I Paulo Freires anda f
 
 ![Affisch](/assets/images/finlay.jpg)
 
-[Finlay Malcolm inledde andra dagen](https://youtu.be/QD8y211COAU), han hade forskat på hur klimataktivism motiveras ut ett kristet perspektiv. Han jämförde "skapelsevårdare" med "skapelseprofeter". Jag fick under dagen höra många fascinerande livsöden. En cypriotisk luta. Jag fick vara med på en fascinerande diskussion om universiten, bör de räddas eller destitueras, med Isak Stoddard och [Lars Noväng](https://www.larsnovang.com/). Den avslutades ett strukturerat delande av berättelser, en så kallad "warm data lab" inspirerad av Nora Bateson.
+Finlay Malcolm inledde andra dagen ([INSPELNING](https://youtu.be/QD8y211COAU)), han hade forskat på hur klimataktivism motiveras ut ett kristet perspektiv. Han jämförde "skapelsevårdare" med "skapelseprofeter". Jag fick under dagen höra många fascinerande livsöden. En cypriotisk luta. Jag fick vara med på en fascinerande diskussion om universiten, bör de räddas eller destitueras, med Isak Stoddard och [Lars Noväng](https://www.larsnovang.com/). Den avslutades ett strukturerat delande av berättelser, en så kallad "warm data lab" inspirerad av Nora Bateson.
 
 ![Man som spelar luta och sjunger](/assets/images/cyprian-lute.jpg)
 
