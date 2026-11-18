@@ -15,7 +15,7 @@ Det började med Kevin Anderson ([INSPELNING](https://youtu.be/URDW5bRjE9c)), kl
 
 En session jag var på handlare om frigörande pedagogik. I Paulo Freires anda fick vi testa på att lära oss och diskutera en frågeställning med hjälp av en pedagog från Brasilien. I en annan session om inre utveckling hade jag höga förväntningar, men kände mig inte bra med hur worshopledaren pratade. Min magkänsla växte, och till slut valde jag att bejaka på den och sade ifrån. Jag avbröt - och workshoppen transformerades till ett mycket mer dynamiskt delande mellan oss deltagare, i vilket även ledaren hade viss positiv inverkan. Jag blev mottagen på en ny väns soffa, vi pratade länge om digital suveränitet, och utbytte klistermärken.
 
-![Affisch](/assets/images/finlay.jpg)
+![Affisch](/assets/images/auditorium-cemus.jpg)
 
 Finlay Malcolm inledde andra dagen ([INSPELNING](https://youtu.be/QD8y211COAU)), han hade forskat på hur klimataktivism motiveras ut ett kristet perspektiv. Han jämförde "skapelsevårdare" med "skapelseprofeter". Jag fick under dagen höra många fascinerande livsöden. En cypriotisk luta. Jag fick vara med på en fascinerande diskussion om universiten, bör de räddas eller destitueras, med Isak Stoddard och [Lars Noväng](https://www.larsnovang.com/). Den avslutades ett strukturerat delande av berättelser, en så kallad "warm data lab" inspirerad av Nora Bateson.
 
