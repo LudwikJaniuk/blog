@@ -9,7 +9,7 @@ layout: default
 
 Jag deltog just i en unik konferens. [ClimateExistence](https://www.cemus.uu.se/climateexistence/) samlar människor som ser och bryr sig om klimatkrisen, men tar sig an den på ett interdisciplinärt sätt. Forskare, konstnärer, aktivister, pedagoger. Och många andra. Jag känner en stor samhörighet i den här skaran - samhörighet i brokigheten, i viljan att gå till roten, i nyfikenheten, i vägran att bara passa in.
 
-Det började med Kevin Anderson ([INSPELNING](https://youtu.be/URDW5bRjE9c)), klimatforskare. Data, känslor, interntionella avtal. Sedan gick vi till Orangeriet. Ida Lod och	 Julia Adzuki ledde oss genom en ritual för att utforska med våra kroppar. Vi ledde varandra i blindo och kände på giftiga växter.
+Det började med Kevin Anderson ([INSPELNING](https://youtu.be/5saBdQADNV4)), klimatforskare. Data, känslor, interntionella avtal. Sedan gick vi till Orangeriet. Ida Lod och	 Julia Adzuki ledde oss genom en ritual för att utforska med våra kroppar. Vi ledde varandra i blindo och kände på giftiga växter.
 
 ![Staty av linne täckt med tyg](/assets/images/linne.jpg)
 
